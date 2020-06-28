@@ -1,6 +1,6 @@
 # Awesome Newsletter Tools 😎 📩 🛠
 
-A collection of awesome newsletter tools, platforms, media, and software.
+A collection of awesome email newsletter tools, platforms, media, and software.
 
 ## Table of Contents
 * [Advertisements](#advertisements)
