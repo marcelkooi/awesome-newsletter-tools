@@ -1,5 +1,7 @@
 # Awesome Newsletter Tools 😎 📩 🛠
 
+A collection of awesome newsletter tools, platforms, media, and software.
+
 ## Table of Contents
 * [Advertisements](#advertisements)
 * [Communities](#communities)
