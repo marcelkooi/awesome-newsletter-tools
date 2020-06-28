@@ -1,7 +1,7 @@
 # Awesome Newsletter Tools 😎 📩 🛠
 
 ## Table of Contents
-* [Advertisements](#Advertisements)
+* [Advertisements](#advertisements)
 * [Communities](#communities)
 * [Discoverability](#discoverability)
   * [Directories](#directories)
@@ -51,6 +51,11 @@
 
 ## Platforms
 
+#### Blog-first
+
+- [Ghost](https://ghost.org/) - popular CMS for building blogs
+- [Wordpress](https://wordpress.com/) - popular CMS for building sites and blogs
+
 #### Editorial
 
 - [Buttondown](https://buttondown.email/)
@@ -81,12 +86,7 @@
 - [SendLoop](https://sendloop.com/)
 - [Zoho Campaigns](https://www.zoho.com/campaigns/)
 
-#### Blog-first
-
-- [Ghost](https://ghost.org/) - popular CMS for building blogs
-- [Wordpress](https://wordpress.com/) - popular CMS for building sites and blogs
-
-#### Transactional / Delivery
+#### Transactional
 
 - [Mailgun](https://www.mailgun.com/) - email API service for sending, receiving, and tracking emails
 - [SendGrid](https://sendgrid.com/) - platform for transactional and marketing email
