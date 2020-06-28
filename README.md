@@ -15,7 +15,6 @@ A collection of awesome email newsletter tools, platforms, media, and software.
   * [Transactional](#transactional)
 * [Referral Programs](#sponsorships)
 * [Sponsorships](#sponsorships)
-* [Workflow Automation](#workflow-automation)
 
 ## Advertisements
 
@@ -67,26 +66,26 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 
 #### Marketing
 
-- [AWeber](https://www.aweber.com/email-newsletters.htm)
-- [BEE Pro](https://beefree.io/bee-pro/)
-- [Benchmark](https://www.benchmarkemail.com/)
-- [Campaign Monitor](https://www.campaignmonitor.com/)
-- [Campaigner](https://www.campaigner.com/)
-- [Constant Contact](https://blogs.constantcontact.com/)
-- [ConvertKit](https://convertkit.com/)
-- [Drip](https://www.drip.com/)
-- [Emma](http://myemma.com/)
-- [GetResponse](https://www.getresponse.com/)
-- [HubSpot](https://www.hubspot.com/products/marketing/email)
-- [Keap](https://keap.com/)
-- [Mailchimp](https://mailchimp.com/)
-- [Mailjet](https://www.mailjet.com/)
-- [MailUp](https://www.mailup.com/)
-- [Postcards](https://designmodo.com/postcards/)
-- [Salesforce Pardot](https://www.pardot.com/)
-- [SendInBlue](https://www.sendinblue.com/)
-- [SendLoop](https://sendloop.com/)
-- [Zoho Campaigns](https://www.zoho.com/campaigns/)
+- [AWeber](https://www.aweber.com/email-newsletters.htm) - email marketing service with a focus on power and simplicity
+- [BEE Pro](https://beefree.io/bee-pro/) - email design tools for marketing teams and agencies
+- [Benchmark](https://www.benchmarkemail.com/) - email marketing service to create ongoing customer engagement
+- [Campaign Monitor](https://www.campaignmonitor.com/) - email marketing and automation service
+- [Campaigner](https://www.campaigner.com/) - email marketing service to create personalized 1:1 interfactions
+- [Constant Contact](https://blogs.constantcontact.com/) - email marketing software with automation
+- [ConvertKit](https://convertkit.com/) - email marketing tools and automation for online creators
+- [Drip](https://www.drip.com/) - marketing ecommerce CRM platform
+- [Emma](http://myemma.com/) - email marketing software to optimize targeted campaigns
+- [GetResponse](https://www.getresponse.com/) - email marketing platform with campaigns, online surveys, and follow-up autoresponders
+- [HubSpot](https://www.hubspot.com/products/marketing/email) - marketing, sales, and service software
+- [Keap](https://keap.com/) - service for CRM, sales, and marketing 
+- [Mailchimp](https://mailchimp.com/) - all-in-one integrated marketing platform
+- [Mailjet](https://www.mailjet.com/) - platform for email and SMS marketing
+- [MailUp](https://www.mailup.com/) - email marketing automation service
+- [Postcards](https://designmodo.com/postcards/) - intuitive email builder for teams and individuals
+- [Salesforce Pardot](https://www.pardot.com/) - marketing automation solution that easily integrates with Salesforce
+- [SendInBlue](https://www.sendinblue.com/) - marketing platform with email marketing service
+- [SendLoop](https://sendloop.com/) - email marketing automation service with a drag-n-drop email builder
+- [Zoho Campaigns](https://www.zoho.com/campaigns/) - email marketing software that helps businesses drive more sales
 
 #### Transactional
 
