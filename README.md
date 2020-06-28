@@ -20,7 +20,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 ## Advertisements
 
 - [AdMan](https://sponsorpage.hypeletter.com/) - tool to help newsletters sell more ads
-- [Letterwell](https://letterwell.co/)
+- [Letterwell](https://letterwell.co/) - platform to buy and sell ad space on newsletters
 
 ## Communities
 
@@ -33,23 +33,23 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 
 #### Directories
 
-- [Find Your Newsletter](https://findnewsletters.com/)
-- [Inbox Reads](https://inboxreads.co/)
-- [Letterdrop](https://letterdrop.io/)
-- [Letterlist](https://letterlist.com/)
-- [Newsletterest](https://newsletterest.com/)
-- [NewsletterHunt](https://newsletterhunt.com/)
-- [Newsletter Junkie](https://newsletterjunkie.com/)
-- [Newsletter Stack](https://newsletterstack.com/)
-- [Rad Letters](https://www.radletters.com/)
-- [Revue](https://discover.getrevue.co/)
-- [StackHunt](https://stackhunt.xyz/)
-- [Substack Discover](https://substack.com/discover)
-- [Thanks for Subscribing](https://www.thanksforsubscribing.app/)
+- [Find Your Newsletter](https://findnewsletters.com/) - list of newsletters with categories and search functionality
+- [Inbox Reads](https://inboxreads.co/) - list of newsletters with topics, blog, and search functionality
+- [Letterdrop](https://letterdrop.io/) - list of recently launched newsletters
+- [Letterlist](https://letterlist.com/) - curated list of newsletters with interviews
+- [Newsletterest](https://newsletterest.com/) - list of newsletters with functionality to see past issues
+- [NewsletterHunt](https://newsletterhunt.com/) - list of newsletters sorted by recently updated
+- [Newsletter Junkie](https://newsletterjunkie.com/) - curated list of newsletters with topics
+- [Newsletter Stack](https://newsletterstack.com/) - list of curated newsletters with topics
+- [Rad Letters](https://www.radletters.com/) - list of newsletters with topics and interviews
+- [Revue](https://discover.getrevue.co/) - curated list of newsletters using Revue
+- [StackHunt](https://stackhunt.xyz/) - list of independent newsletters with categories
+- [Substack Discover](https://substack.com/discover) - list of newsletters using Substack with search functionality
+- [Thanks for Subscribing](https://www.thanksforsubscribing.app/) - curated list of newsletters with topics and search functionality
 
 #### Podcasts
 
-- [Newsletter Crew](https://newslettercrew.com/)
+- [Newsletter Crew](https://newslettercrew.com/) - interviews with newsletter creators
 
 ## Platforms
 
@@ -60,10 +60,10 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 
 #### Editorial
 
-- [Buttondown](https://buttondown.email/)
-- [Revue](https://www.getrevue.co/)
-- [Substack](https://substack.com/)
-- [TinyLetter](https://tinyletter.com/)
+- [Buttondown](https://buttondown.email/) - email newsletter platform tool with automation and emphasis on speed and ease of use 
+- [Revue](https://www.getrevue.co/) - editorial newsletter tool for writers and publishers
+- [Substack](https://substack.com/) - email newsletter platform designed for small publishers hoping to turn their subscribers into paying customers
+- [TinyLetter](https://tinyletter.com/) - free newsletter service with a focus on privacy
 
 #### Marketing
 
@@ -96,17 +96,13 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 
 ## Referral Programs
 
-- [Ambassador](https://www.getambassador.com/)
-- [Gather](https://hq.gathercustomers.com/)
-- [Mention Me](https://www.mention-me.com/)
+- [Ambassador](https://www.getambassador.com/) - referral program software
+- [Gather](https://hq.gathercustomers.com/) - email marketing referral program software
+- [Mention Me](https://www.mention-me.com/) - referral marketing and customer retentions oftware
 - [SparkLoop](https://sparkloop.app/) - referral service specific to email newsletters
 
 ## Sponsorships
 
-- [HypeLetter](https://hypeletter.com/)
+- [HypeLetter](https://hypeletter.com/) - simple newsletter sponsorships
 
-## Workflow Automation
-
-- [Zapier](https://zapier.com/) - workflow automation platform to connect apps
-- [Integromat](https://www.integromat.com/) - workflow automation platform to connect apps
 
