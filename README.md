@@ -32,16 +32,16 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 
 #### Directories
 
+- [Discover by Revue](https://discover.getrevue.co/) - curated list of newsletters using Revue
 - [Find Your Newsletter](https://findnewsletters.com/) - list of newsletters with categories and search functionality
 - [Inbox Reads](https://inboxreads.co/) - list of newsletters with topics, blog, and search functionality
 - [Letterdrop](https://letterdrop.io/) - list of recently launched newsletters
 - [Letterlist](https://letterlist.com/) - curated list of newsletters with interviews
-- [Newsletterest](https://newsletterest.com/) - list of newsletters with functionality to see past issues
-- [NewsletterHunt](https://newsletterhunt.com/) - list of newsletters sorted by recently updated
 - [Newsletter Junkie](https://newsletterjunkie.com/) - curated list of newsletters with topics
 - [Newsletter Stack](https://newsletterstack.com/) - list of curated newsletters with topics
+- [Newsletterest](https://newsletterest.com/) - list of newsletters with functionality to see past issues
+- [NewsletterHunt](https://newsletterhunt.com/) - list of newsletters sorted by recently updated
 - [Rad Letters](https://www.radletters.com/) - list of newsletters with topics and interviews
-- [Revue](https://discover.getrevue.co/) - curated list of newsletters using Revue
 - [StackHunt](https://stackhunt.xyz/) - list of independent newsletters with categories
 - [Substack Discover](https://substack.com/discover) - list of newsletters using Substack with search functionality
 - [Thanks for Subscribing](https://www.thanksforsubscribing.app/) - curated list of newsletters with topics and search functionality
