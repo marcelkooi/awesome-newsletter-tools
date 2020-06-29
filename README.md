@@ -2,7 +2,7 @@
 
 A collection of awesome email newsletter tools, platforms, media, and software.
 
-## Table of Contents
+#### Table of Contents
 * [Advertisements](#advertisements)
 * [Communities](#communities)
 * [Discoverability](#discoverability)
