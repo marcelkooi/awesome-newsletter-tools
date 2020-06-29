@@ -79,6 +79,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [HubSpot](https://www.hubspot.com/products/marketing/email) - marketing, sales, and service software
 - [Keap](https://keap.com/) - service for CRM, sales, and marketing 
 - [Mailchimp](https://mailchimp.com/) - all-in-one integrated marketing platform
+- [MailerLite](https://www.mailerlite.com/features/newsletter-editor) - email marketing platform with a drag and drop editor
 - [Mailjet](https://www.mailjet.com/) - platform for email and SMS marketing
 - [MailUp](https://www.mailup.com/) - email marketing automation service
 - [Postcards](https://designmodo.com/postcards/) - intuitive email builder for teams and individuals
