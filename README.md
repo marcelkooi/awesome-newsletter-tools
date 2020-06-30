@@ -33,7 +33,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 
 #### Directories
 
-- [Discover by Revue](https://discover.getrevue.co/) - curated list of newsletters using Revue
+- [Discover by Revue](https://discover.getrevue.co/) - curated list of newsletters with search functionality
 - [Find Your Newsletter](https://findnewsletters.com/) - list of newsletters with categories and search functionality
 - [Inbox Reads](https://inboxreads.co/) - list of newsletters with topics, blog, and search functionality
 - [Letterdrop](https://letterdrop.io/) - list of recently launched newsletters
