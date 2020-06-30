@@ -3,18 +3,18 @@
 A collection of awesome email newsletter tools, platforms, media, and software.
 
 #### Table of Contents
-* [Advertisements](#advertisements)
-* [Communities](#communities)
-* [Discoverability](#discoverability)
-  * [Directories](#directories)
-  * [Podcasts](#podcasts)
-* [Platforms](#platforms)
-  * [Blog-first](#blog-first)
-  * [Editorial](#editorial)
-  * [Marketing](#marketing)
-  * [Transactional](#transactional)
-* [Referral Programs](#sponsorships)
-* [Sponsorships](#sponsorships)
+- [Advertisements](#advertisements)
+- [Communities](#communities)
+- [Discoverability](#discoverability)
+  - [Directories](#directories)
+  - [Podcasts](#podcasts)
+- [Platforms](#platforms)
+  - [Blog-first](#blog-first)
+  - [Editorial](#editorial)
+  - [Marketing](#marketing)
+  - [Transactional](#transactional)
+- [Referral Programs](#sponsorships)
+- [Sponsorships](#sponsorships)
 
 ## Advertisements
 
