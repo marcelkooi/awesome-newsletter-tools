@@ -8,10 +8,12 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [Discoverability](#discoverability)
   - [Directories](#directories)
   - [Podcasts](#podcasts)
+- [Deliverability](#deliverability)
 - [Platforms](#platforms)
   - [Blog-first](#blog-first)
   - [Editorial](#editorial)
   - [Marketing](#marketing)
+  - [Open Source](#open-source)
   - [Transactional](#transactional)
 - [Referral Programs](#sponsorships)
 - [Sponsorships](#sponsorships)
@@ -28,6 +30,11 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [Newsletter Nerds](https://www.facebook.com/groups/NewsletterNerds/) - Facebook group with over 1200 members
 - [r/Newsletters](http://reddit.com/r/newsletters) - Subreddit about newsletters with over 200 members
 - [Substack Writers](https://www.facebook.com/groups/substackwriters) - Facebook group with over 300 members
+
+## Deliverability
+
+- [GlockApps](https://glockapps.com/) - tool to diagnose email deliverability problems
+- [GMass](https://www.gmass.co/) - platform used to increase open rates and send bulk emails
 
 ## Discoverability
 
@@ -88,6 +95,9 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [SendInBlue](https://www.sendinblue.com/) - marketing platform with email marketing service
 - [SendLoop](https://sendloop.com/) - email marketing automation service with a drag-n-drop email builder
 - [Zoho Campaigns](https://www.zoho.com/campaigns/) - email marketing software that helps businesses drive more sales
+
+#### Open source
+- [ListMonk](https://listmonk.app/) - self-hosted newsletter and mailing list manager
 
 #### Transactional
 
