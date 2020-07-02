@@ -99,6 +99,8 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 
 #### Open source
 - [listmonk](https://listmonk.app/) - self-hosted newsletter and mailing list manager
+- [Mautic](https://www.mautic.org/) - community-driven marketing automation project
+- [Sendy](https://sendy.co/) - self-hosted email newsletter app that lets you send trackable emails through Amazon SNS
 
 #### Transactional
 
