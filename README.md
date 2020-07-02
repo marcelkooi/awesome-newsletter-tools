@@ -5,10 +5,10 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 #### Table of Contents
 - [Advertisements](#advertisements)
 - [Communities](#communities)
+- [Deliverability](#deliverability)
 - [Discoverability](#discoverability)
   - [Directories](#directories)
   - [Podcasts](#podcasts)
-- [Deliverability](#deliverability)
 - [Platforms](#platforms)
   - [Blog-first](#blog-first)
   - [Editorial](#editorial)
@@ -97,7 +97,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [Zoho Campaigns](https://www.zoho.com/campaigns/) - email marketing software that helps businesses drive more sales
 
 #### Open source
-- [ListMonk](https://listmonk.app/) - self-hosted newsletter and mailing list manager
+- [listmonk](https://listmonk.app/) - self-hosted newsletter and mailing list manager
 
 #### Transactional
 
