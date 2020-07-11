@@ -111,6 +111,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 ## Referral Programs
 
 - [Ambassador](https://www.getambassador.com/) - referral program software
+- [Firewards](https://www.firewards.com/) - referral service specific to email newsletters
 - [Gather](https://hq.gathercustomers.com/) - email marketing referral program software
 - [Mention Me](https://www.mention-me.com/) - referral marketing and customer retentions oftware
 - [SparkLoop](https://sparkloop.app/) - referral service specific to email newsletters
