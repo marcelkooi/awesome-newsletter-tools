@@ -25,6 +25,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 
 ## Communities
 
+- [Indie Hackers Newsletter Crew](https://www.indiehackers.com/group/newsletter-crew) - group within the Indie Hackers community focused on newsletters
 - [IndieMailer](https://indiemailer.com/) - community for paid newsletter creators
 - [Newsletter Creators](https://www.facebook.com/groups/NewsletterCreators/) - Facebook group with over 2200 members
 - [Newsletter Nerds](https://www.facebook.com/groups/NewsletterNerds/) - Facebook group with over 1200 members
