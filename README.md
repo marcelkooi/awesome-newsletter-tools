@@ -3,14 +3,13 @@
 A collection of awesome email newsletter tools, platforms, media, and software.
 
 #### Table of Contents
-- [Awesome Newsletter Tools 😎 📩 🛠](#awesome-newsletter-tools---)
-      - [Table of Contents](#table-of-contents)
   - [Advertisements](#advertisements)
   - [Communities](#communities)
   - [Deliverability](#deliverability)
   - [Discoverability](#discoverability)
       - [Directories](#directories)
       - [Podcasts](#podcasts)
+  - [Inbox Management](#inbox-management)
   - [Platforms](#platforms)
       - [Blog-first](#blog-first)
       - [Editorial](#editorial)
@@ -19,7 +18,6 @@ A collection of awesome email newsletter tools, platforms, media, and software.
       - [Transactional](#transactional)
   - [Referral Programs](#referral-programs)
   - [Sponsorships](#sponsorships)
-  - [Inbox-management](#inbox-management)
 
 ## Advertisements
 
@@ -61,6 +59,16 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 #### Podcasts
 
 - [Newsletter Crew](https://newslettercrew.com/) - interviews with newsletter creators
+
+## Inbox Management
+
+- [Inspiratio](https://inspirat.io/) - A simple, focused reading app for your newsletters
+- [Kill the newsletter](kill-the-newsletter.com/) - Create an RSS feed from newsletter subscriptions
+- [Mux](https://mux.to/) - Receive and organize your newsletters in a special mailbox
+- [Newslettrs](https://newslettrs.app/) - Get all your newsletters in one place
+- [Slick Inbox](https://slickinbox.com/) -  Break free of a cluttered email inbox
+- [Stoop](https://stoopinbox.com/) - Quit the news feed. Embrace the newsletter
+- [Supscrib](https://supscrib.com/) - The new way of subscribing anonymously to newsletters
 
 ## Platforms
 
@@ -126,14 +134,4 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 
 - [HypeLetter](https://hypeletter.com/) - simple newsletter sponsorships
 
-## Inbox-management
-
-- [Mux](https://mux.to/) - Receive and organize your newsletters in a special mailbox
-- [Stoop](https://stoopinbox.com/) - Quit the news feed.
-Embrace the newsletter
-- [Newslettrs](https://newslettrs.app/) - Get all your newsletters in one place.
-- [Supscrib](https://supscrib.com/) - The new way of subscribing anonymously to newsletters
-- [Inspiratio](https://inspirat.io/) - A simple, focused reading app for your newsletters.
-- [Kill the newsletter](kill-the-newsletter.com/) - Create an RSS feed from newsletter subscriptions
-- [Slick Inbox](https://slickinbox.com/) -  Break free of a cluttered email inbox. 
 
