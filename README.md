@@ -3,21 +3,23 @@
 A collection of awesome email newsletter tools, platforms, media, and software.
 
 #### Table of Contents
-- [Advertisements](#advertisements)
-- [Communities](#communities)
-- [Deliverability](#deliverability)
-- [Discoverability](#discoverability)
-  - [Directories](#directories)
-  - [Podcasts](#podcasts)
-- [Platforms](#platforms)
-  - [Blog-first](#blog-first)
-  - [Editorial](#editorial)
-  - [Marketing](#marketing)
-  - [Open Source](#open-source)
-  - [Transactional](#transactional)
-- [Referral Programs](#sponsorships)
-- [Sponsorships](#sponsorships)
-- [Inbox-management](#inbox-management)
+- [Awesome Newsletter Tools 😎 📩 🛠](#awesome-newsletter-tools---)
+      - [Table of Contents](#table-of-contents)
+  - [Advertisements](#advertisements)
+  - [Communities](#communities)
+  - [Deliverability](#deliverability)
+  - [Discoverability](#discoverability)
+      - [Directories](#directories)
+      - [Podcasts](#podcasts)
+  - [Platforms](#platforms)
+      - [Blog-first](#blog-first)
+      - [Editorial](#editorial)
+      - [Marketing](#marketing)
+      - [Open source](#open-source)
+      - [Transactional](#transactional)
+  - [Referral Programs](#referral-programs)
+  - [Sponsorships](#sponsorships)
+  - [Inbox-management](#inbox-management)
 
 ## Advertisements
 
@@ -104,6 +106,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [listmonk](https://listmonk.app/) - self-hosted newsletter and mailing list manager
 - [Mautic](https://www.mautic.org/) - community-driven marketing automation project
 - [Sendy](https://sendy.co/) - self-hosted email newsletter app that lets you send trackable emails through Amazon SNS
+- [Mailpoet](https://www.mailpoet.com/) - email plugin for WordPress to create and send newsletters through their own sending platform
 
 #### Transactional
 
