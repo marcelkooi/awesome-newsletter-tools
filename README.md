@@ -62,13 +62,13 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 
 ## Inbox Management
 
-- [Inspiratio](https://inspirat.io/) - A simple, focused reading app for your newsletters
-- [Kill the newsletter](kill-the-newsletter.com/) - Create an RSS feed from newsletter subscriptions
-- [Mux](https://mux.to/) - Receive and organize your newsletters in a special mailbox
-- [Newslettrs](https://newslettrs.app/) - Get all your newsletters in one place
-- [Slick Inbox](https://slickinbox.com/) -  Break free of a cluttered email inbox
-- [Stoop](https://stoopinbox.com/) - Quit the news feed. Embrace the newsletter
-- [Supscrib](https://supscrib.com/) - The new way of subscribing anonymously to newsletters
+- [Inspiratio](https://inspirat.io/) - a simple, focused reading app for your newsletters
+- [Kill the newsletter](kill-the-newsletter.com/) - create an RSS feed from newsletter subscriptions
+- [Mux](https://mux.to/) - receive and organize your newsletters in a special mailbox
+- [Newslettrs](https://newslettrs.app/) - get all your newsletters in one place
+- [Slick Inbox](https://slickinbox.com/) -  break free of a cluttered email inbox
+- [Stoop](https://stoopinbox.com/) - quit the news feed, embrace the newsletter
+- [Supscrib](https://supscrib.com/) - the new way of subscribing anonymously to newsletters
 
 ## Platforms
 
@@ -114,6 +114,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 #### Open source
 - [listmonk](https://listmonk.app/) - self-hosted newsletter and mailing list manager
 - [Mautic](https://www.mautic.org/) - community-driven marketing automation project
+- [SendPortal](https://sendportal.io/) - open-source self-hosted email marketing service that integrates with multiple providers
 - [Sendy](https://sendy.co/) - self-hosted email newsletter app that lets you send trackable emails through Amazon SNS
 - [Mailpoet](https://www.mailpoet.com/) - email plugin for WordPress to create and send newsletters through their own sending platform
 
