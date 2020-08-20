@@ -82,6 +82,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [Buttondown](https://buttondown.email/) - email newsletter platform tool with automation and emphasis on speed and ease of use 
 - [Goodbits](https://goodbits.io/) - email newsletter builder that turns your saved bookmarks, social feeds, or Slack channel into curated article in minutes
 - [Iteretta](https://iteretta.com/) - Email newsletter service with a focus on simplicity
+- [Osmosys](https://yellowbrim.com/osmosys) - Seamlessly convert and send content from your website using email
 - [Revue](https://www.getrevue.co/) - editorial newsletter tool for writers and publishers
 - [Substack](https://substack.com/) - email newsletter platform designed for small publishers hoping to turn their subscribers into paying customers
 - [TinyLetter](https://tinyletter.com/) - free newsletter service with a focus on privacy
