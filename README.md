@@ -121,6 +121,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 #### Transactional
 
 - [Mailgun](https://www.mailgun.com/) - email API service for sending, receiving, and tracking emails
+- [Postmark](https://postmarkapp.com/) - provider for sending application emails
 - [SendGrid](https://sendgrid.com/) - platform for transactional and marketing email
 
 
