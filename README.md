@@ -87,6 +87,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [Revue](https://www.getrevue.co/) - editorial newsletter tool for writers and publishers
 - [Substack](https://substack.com/) - email newsletter platform designed for small publishers hoping to turn their subscribers into paying customers
 - [TinyLetter](https://tinyletter.com/) - free newsletter service with a focus on privacy
+- [Unalike](https://unalike.net/) - Collaborative newsletter publishing for writers and storytellers
 
 #### Marketing
 
