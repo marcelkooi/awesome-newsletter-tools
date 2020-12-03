@@ -48,6 +48,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [Inbox Reads](https://inboxreads.co/) - list of newsletters with topics, blog, and search functionality
 - [Letterdrop](https://letterdrop.io/) - list of recently launched newsletters
 - [Letterlist](https://letterlist.com/) - curated list of newsletters with interviews
+- [mereku](http://mereku.com/) - discover and share newsletter content worth reading
 - [Newsletter Junkie](https://newsletterjunkie.com/) - curated list of newsletters with topics
 - [Newsletter Stack](https://newsletterstack.com/) - list of curated newsletters with topics
 - [Newsletterest](https://newsletterest.com/) - list of newsletters with functionality to see past issues
