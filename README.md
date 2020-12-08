@@ -57,6 +57,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [StackHunt](https://stackhunt.xyz/) - list of independent newsletters with categories
 - [Substack Discover](https://substack.com/discover) - list of newsletters using Substack with search functionality
 - [Thanks for Subscribing](https://www.thanksforsubscribing.app/) - curated list of newsletters with topics and search functionality
+- [Viral We Grow Newsletter Listing](https://viralwegrow.com/newsletterlist) - Listing of amazing newsletters on the VWG Community and connecting to their owners
 
 #### Podcasts
 
@@ -135,6 +136,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [Gather](https://hq.gathercustomers.com/) - email marketing referral program software
 - [Mention Me](https://www.mention-me.com/) - referral marketing and customer retention software
 - [SparkLoop](https://sparkloop.app/) - referral service specific to email newsletters
+- [ViralLoops](http://viral-loops.com/) - referral software for newsletters with templates
 
 ## Sponsorships
 
