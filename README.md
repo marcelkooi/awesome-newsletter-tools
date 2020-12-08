@@ -26,6 +26,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 
 ## Communities
 
+- [Newsletter Upstarts](https://bit.ly/newslttring) - Small group feedback meetups of newsletter owners, invite only. Fill in the form for invite.
 - [Indie Hackers Newsletter Crew](https://www.indiehackers.com/group/newsletter-crew) - group within the Indie Hackers community focused on newsletters
 - [Mailing List Hackers](https://www.mailinglisthackers.com/chat) - friendly chat community of mailing list and newsletter creators
 - [Newsletter Creators](https://www.facebook.com/groups/NewsletterCreators/) - Facebook group with over 2200 members
