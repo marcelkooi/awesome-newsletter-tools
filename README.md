@@ -31,6 +31,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [Newsletter Creators](https://www.facebook.com/groups/NewsletterCreators/) - Facebook group with over 2200 members
 - [Newsletter Crew](https://newslettercrew.com/) - community for paid newsletter creators
 - [Newsletter Nerds](https://www.facebook.com/groups/NewsletterNerds/) - Facebook group with over 1200 members
+- [Newsletter Upstarts](https://bit.ly/newslttring) - Small group feedback meetups of newsletter owners, invite only. Apply for invite.
 - [r/Newsletters](http://reddit.com/r/newsletters) - Subreddit about newsletters with over 200 members
 - [Substack Writers](https://www.facebook.com/groups/substackwriters) - Facebook group with over 300 members
 
