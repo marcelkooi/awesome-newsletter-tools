@@ -141,6 +141,4 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 
 ## Sponsorships
 
-- [HypeLetter](https://hypeletter.com/) - simple newsletter sponsorships
-
 
