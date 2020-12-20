@@ -21,7 +21,6 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 
 ## Advertisements
 
-- [AdMan](https://sponsorpage.hypeletter.com/) - tool to help newsletters sell more ads
 - [Letterwell](https://letterwell.co/) - platform to buy and sell ad space on newsletters
 
 ## Communities
