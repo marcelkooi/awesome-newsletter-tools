@@ -61,7 +61,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [Viral We Grow Newsletter Listing](https://viralwegrow.com/newsletterlist) - Listing of amazing newsletters on the VWG Community and connecting to their owners
 - [Inbox Stash](https://inboxstash.com/) - Collections of amazing email newsletters on various topics, weekly digest of resources for newsletter creators and picks
 
-#### PodcastsA weekly digest of resources for newsletter creators and our picks from InboxStash.
+#### Podcasts
 
 - [Newsletter Crew](https://newslettercrew.com/) - interviews with newsletter creators
 
@@ -143,5 +143,4 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 ## Sponsorships
 
 - [HypeLetter](https://hypeletter.com/) - simple newsletter sponsorships
-
 
