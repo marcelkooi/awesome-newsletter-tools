@@ -122,7 +122,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [Sendy](https://sendy.co/) - self-hosted email newsletter app that lets you send trackable emails through Amazon SNS
 - [Mailpoet](https://www.mailpoet.com/) - email plugin for WordPress to create and send newsletters through their own sending platform
 
-#### Transactional
+#### Transactional (APIs)
 
 - [Mailgun](https://www.mailgun.com/) - email API service for sending, receiving, and tracking emails
 - [Postmark](https://postmarkapp.com/) - provider for sending application emails
