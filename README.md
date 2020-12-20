@@ -47,6 +47,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [Discover by Revue](https://discover.getrevue.co/) - curated list of newsletters with search functionality
 - [Find Your Newsletter](https://findnewsletters.com/) - list of newsletters with categories and search functionality
 - [Inbox Reads](https://inboxreads.co/) - list of newsletters with topics, blog, and search functionality
+- [Inbox Stash](https://inboxstash.com/) - collections of amazing email newsletters on various topics, weekly digest of resources for newsletter creators and picks
 - [Letterdrop](https://letterdrop.io/) - list of recently launched newsletters
 - [Letterlist](https://letterlist.com/) - curated list of newsletters with interviews
 - [mereku](http://mereku.com/) - discover and share newsletter content worth reading
@@ -58,8 +59,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [StackHunt](https://stackhunt.xyz/) - list of independent newsletters with categories
 - [Substack Discover](https://substack.com/discover) - list of newsletters using Substack with search functionality
 - [Thanks for Subscribing](https://www.thanksforsubscribing.app/) - curated list of newsletters with topics and search functionality
-- [Viral We Grow Newsletter Listing](https://viralwegrow.com/newsletterlist) - Listing of amazing newsletters on the VWG Community and connecting to their owners
-- [Inbox Stash](https://inboxstash.com/) - Collections of amazing email newsletters on various topics, weekly digest of resources for newsletter creators and picks
+- [Viral We Grow Newsletter Listing](https://viralwegrow.com/newsletterlist) - listing of amazing newsletters on the VWG Community and connecting to their owners
 
 #### Podcasts
 
