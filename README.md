@@ -46,6 +46,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [Discover by Revue](https://discover.getrevue.co/) - curated list of newsletters with search functionality
 - [Find Your Newsletter](https://findnewsletters.com/) - list of newsletters with categories and search functionality
 - [Inbox Reads](https://inboxreads.co/) - list of newsletters with topics, blog, and search functionality
+- [Inbox Stash](https://inboxstash.com/) - collections of amazing email newsletters on various topics, weekly digest of resources for newsletter creators and picks
 - [Letterdrop](https://letterdrop.io/) - list of recently launched newsletters
 - [Letterlist](https://letterlist.com/) - curated list of newsletters with interviews
 - [mereku](http://mereku.com/) - discover and share newsletter content worth reading
