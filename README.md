@@ -59,7 +59,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [Substack Discover](https://substack.com/discover) - list of newsletters using Substack with search functionality
 - [Thanks for Subscribing](https://www.thanksforsubscribing.app/) - curated list of newsletters with topics and search functionality
 - [Viral We Grow Newsletter Listing](https://viralwegrow.com/newsletterlist) - Listing of amazing newsletters on the VWG Community and connecting to their owners
-- [Orange Chew: Creator News](https://orangechew.com) - "Hackernews for creators" - List of all news happening in creators area. The news front page, for newsletter creators, YouTubers, podcasters, nocoders, etc.
+- [Orange Chew: Creator News](https://orangechew.com) - "Hackernews for creators" - A weekly news section with the ability for creators to post their new editions of newsletters weekly for others to discover and read.
 
 #### Podcasts
 
