@@ -59,6 +59,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [Substack Discover](https://substack.com/discover) - list of newsletters using Substack with search functionality
 - [Thanks for Subscribing](https://www.thanksforsubscribing.app/) - curated list of newsletters with topics and search functionality
 - [Viral We Grow Newsletter Listing](https://viralwegrow.com/newsletterlist) - Listing of amazing newsletters on the VWG Community and connecting to their owners
+- [Techy Letters](https://techyletters.io/) - Discover your favorite Tech Newsletter
 
 #### Podcasts
 
