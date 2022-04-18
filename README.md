@@ -21,6 +21,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 
 ## Advertisements
 
+- [Paved](https://www.paved.com/publishers) - Paved Ad Network offers auto-fill ads for publishers.
 - [Letterwell](https://letterwell.co/) - platform to buy and sell ad space on newsletters
 
 ## Communities
@@ -141,5 +142,5 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [ViralLoops](http://viral-loops.com/) - referral software for newsletters with templates
 
 ## Sponsorships
-
+- [Paved](https://www.paved.com/publishers) - Paved Marketplace offers a way for advertisers to find you for sponsorships.
 
