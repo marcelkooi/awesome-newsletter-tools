@@ -12,6 +12,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
   - [Inbox Management](#inbox-management)
   - [Platforms](#platforms)
       - [Blog-first](#blog-first)
+      - [Bundling](#bundling)
       - [Editorial](#editorial)
       - [Marketing](#marketing)
       - [Open source](#open-source)
@@ -48,18 +49,14 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [Find Your Newsletter](https://findnewsletters.com/) - list of newsletters with categories and search functionality
 - [Inbox Reads](https://inboxreads.co/) - list of newsletters with topics, blog, and search functionality
 - [Inbox Stash](https://inboxstash.com/) - collections of amazing email newsletters on various topics, weekly digest of resources for newsletter creators and picks
-- [Letterdrop](https://letterdrop.io/) - list of recently launched newsletters
 - [Letterlist](https://letterlist.com/) - curated list of newsletters with interviews
 - [mereku](http://mereku.com/) - discover and share newsletter content worth reading
+- [News Bundler](https://newsbundler.com/) - directory with the ability to create bundles
 - [Newsletter Junkie](https://newsletterjunkie.com/) - curated list of newsletters with topics
-- [Newsletter Stack](https://newsletterstack.com/) - list of curated newsletters with topics
 - [Newsletterest](https://newsletterest.com/) - list of newsletters with functionality to see past issues
 - [NewsletterHunt](https://newsletterhunt.com/) - list of newsletters sorted by recently updated
-- [Rad Letters](https://www.radletters.com/) - list of newsletters with topics and interviews
-- [StackHunt](https://stackhunt.xyz/) - list of independent newsletters with categories
 - [Substack Discover](https://substack.com/discover) - list of newsletters using Substack with search functionality
 - [Thanks for Subscribing](https://www.thanksforsubscribing.app/) - curated list of newsletters with topics and search functionality
-- [Viral We Grow Newsletter Listing](https://viralwegrow.com/newsletterlist) - Listing of amazing newsletters on the VWG Community and connecting to their owners
 
 #### Podcasts
 
@@ -81,6 +78,10 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 
 - [Ghost](https://ghost.org/) - popular CMS for building blogs
 - [Wordpress](https://wordpress.com/) - popular CMS for building sites and blogs
+
+#### Bundling
+
+- [News Bundler](https://newsbundler.com/) - team up with another newsletter author and increase your reveneue by selling a newsletter bundle
 
 #### Editorial
 
