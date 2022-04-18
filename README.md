@@ -21,8 +21,8 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 
 ## Advertisements
 
-- [Paved](https://www.paved.com/publishers) - Paved Ad Network offers auto-fill ads for publishers.
 - [Letterwell](https://letterwell.co/) - platform to buy and sell ad space on newsletters
+- [Paved](https://www.paved.com/publishers) - Paved Ad Network offers auto-fill ads for publishers.
 
 ## Communities
 
