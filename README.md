@@ -22,7 +22,6 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 
 ## Advertisements
 
-- [Letterwell](https://letterwell.co/) - platform to buy and sell ad space on newsletters
 - [Paved](https://www.paved.com/publishers) - Paved Ad Network offers auto-fill ads for publishers.
 
 ## Communities
@@ -65,9 +64,8 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 ## Inbox Management
 
 - [Inspiratio](https://inspirat.io/) - a simple, focused reading app for your newsletters
-- [Kill the newsletter](kill-the-newsletter.com/) - create an RSS feed from newsletter subscriptions
+- [Kill the newsletter](https://www.kill-the-newsletter.com/) - create an RSS feed from newsletter subscriptions
 - [Mux](https://mux.to/) - receive and organize your newsletters in a special mailbox
-- [Newslettrs](https://newslettrs.app/) - get all your newsletters in one place
 - [Slick Inbox](https://slickinbox.com/) -  break free of a cluttered email inbox
 - [Stoop](https://stoopinbox.com/) - quit the news feed, embrace the newsletter
 - [Supscrib](https://supscrib.com/) - the new way of subscribing anonymously to newsletters
