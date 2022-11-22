@@ -34,7 +34,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [Newsletter Upstarts](https://bit.ly/newslttring) - Small group feedback meetups of newsletter owners, invite only. Apply for invite.
 - [r/Newsletters](http://reddit.com/r/newsletters) - Subreddit about newsletters with over 200 members
 - [Substack Writers](https://www.facebook.com/groups/substackwriters) - Facebook group with over 300 members
-- [Rad Letters on IntroSend](https://www.introsend.com/communities/rad-letters/join)
+- [Rad Letters on IntroSend](https://www.introsend.com/communities/rad-letters/join) - 1:1 pairing with 200+ newsletter creators
 
 ## Deliverability
 
