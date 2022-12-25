@@ -57,6 +57,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [NewsletterHunt](https://newsletterhunt.com/) - list of newsletters sorted by recently updated
 - [Substack Discover](https://substack.com/discover) - list of newsletters using Substack with search functionality
 - [Thanks for Subscribing](https://www.thanksforsubscribing.app/) - curated list of newsletters with topics and search functionality
+- [Mailscribe Discover](https://mailscribe.com/discover) - categorized list of newsletters around the world
 
 #### Podcasts
 
@@ -70,6 +71,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [Slick Inbox](https://slickinbox.com/) -  break free of a cluttered email inbox
 - [Stoop](https://stoopinbox.com/) - quit the news feed, embrace the newsletter
 - [Supscrib](https://supscrib.com/) - the new way of subscribing anonymously to newsletters
+- [Mailscribe Inbox](https://mailscribe.com/) - keep your inbox clean
 
 ## Platforms
 
