@@ -3,22 +3,23 @@
 A collection of awesome email newsletter tools, platforms, media, and software.
 
 #### Table of Contents
-  - [Advertisements](#advertisements)
-  - [Communities](#communities)
-  - [Deliverability](#deliverability)
-  - [Discoverability](#discoverability)
-      - [Directories](#directories)
-      - [Podcasts](#podcasts)
-  - [Inbox Management](#inbox-management)
-  - [Platforms](#platforms)
-      - [Blog-first](#blog-first)
-      - [Bundling](#bundling)
-      - [Editorial](#editorial)
-      - [Marketing](#marketing)
-      - [Open source](#open-source)
-      - [Transactional](#transactional)
-  - [Referral Programs](#referral-programs)
-  - [Sponsorships](#sponsorships)
+
+- [Advertisements](#advertisements)
+- [Communities](#communities)
+- [Deliverability](#deliverability)
+- [Discoverability](#discoverability)
+  - [Directories](#directories)
+  - [Podcasts](#podcasts)
+- [Inbox Management](#inbox-management)
+- [Platforms](#platforms)
+  - [Blog-first](#blog-first)
+  - [Bundling](#bundling)
+  - [Editorial](#editorial)
+  - [Marketing](#marketing)
+  - [Open source](#open-source)
+  - [Transactional](#transactional)
+- [Referral Programs](#referral-programs)
+- [Sponsorships](#sponsorships)
 
 ## Advertisements
 
@@ -33,8 +34,8 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [Newsletter Nerds](https://www.facebook.com/groups/NewsletterNerds/) - Facebook group with over 1200 members
 - [Newsletter Upstarts](https://bit.ly/newslttring) - Small group feedback meetups of newsletter owners, invite only. Apply for invite.
 - [r/Newsletters](http://reddit.com/r/newsletters) - Subreddit about newsletters with over 200 members
-- [Substack Writers](https://www.facebook.com/groups/substackwriters) - Facebook group with over 300 members
 - [Rad Letters on IntroSend](https://www.introsend.com/communities/rad-letters/join) - 1:1 pairing with 200+ newsletter creators
+- [Substack Writers](https://www.facebook.com/groups/substackwriters) - Facebook group with over 300 members
 
 ## Deliverability
 
@@ -50,6 +51,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [Inbox Reads](https://inboxreads.co/) - list of newsletters with topics, blog, and search functionality
 - [Inbox Stash](https://inboxstash.com/) - collections of amazing email newsletters on various topics, weekly digest of resources for newsletter creators and picks
 - [Letterlist](https://letterlist.com/) - curated list of newsletters with interviews
+- [Mailscribe Discover](https://mailscribe.com/discover) - categorized list of newsletters around the world
 - [mereku](http://mereku.com/) - discover and share newsletter content worth reading
 - [News Bundler](https://newsbundler.com/) - directory with the ability to create bundles
 - [Newsletter Junkie](https://newsletterjunkie.com/) - curated list of newsletters with topics
@@ -57,7 +59,6 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [NewsletterHunt](https://newsletterhunt.com/) - list of newsletters sorted by recently updated
 - [Substack Discover](https://substack.com/discover) - list of newsletters using Substack with search functionality
 - [Thanks for Subscribing](https://www.thanksforsubscribing.app/) - curated list of newsletters with topics and search functionality
-- [Mailscribe Discover](https://mailscribe.com/discover) - categorized list of newsletters around the world
 
 #### Podcasts
 
@@ -67,11 +68,11 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 
 - [Inspiratio](https://inspirat.io/) - a simple, focused reading app for your newsletters
 - [Kill the newsletter](https://www.kill-the-newsletter.com/) - create an RSS feed from newsletter subscriptions
+- [Mailscribe Inbox](https://mailscribe.com/) - keep your inbox clean
 - [Mux](https://mux.to/) - receive and organize your newsletters in a special mailbox
-- [Slick Inbox](https://slickinbox.com/) -  break free of a cluttered email inbox
+- [Slick Inbox](https://slickinbox.com/) - break free of a cluttered email inbox
 - [Stoop](https://stoopinbox.com/) - quit the news feed, embrace the newsletter
 - [Supscrib](https://supscrib.com/) - the new way of subscribing anonymously to newsletters
-- [Mailscribe Inbox](https://mailscribe.com/) - keep your inbox clean
 
 ## Platforms
 
@@ -86,7 +87,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 
 #### Editorial
 
-- [Buttondown](https://buttondown.email/) - email newsletter platform tool with automation and emphasis on speed and ease of use 
+- [Buttondown](https://buttondown.email/) - email newsletter platform tool with automation and emphasis on speed and ease of use
 - [Goodbits](https://goodbits.io/) - email newsletter builder that turns your saved bookmarks, social feeds, or Slack channel into curated article in minutes
 - [Iteretta](https://iteretta.com/) - Email newsletter service with a focus on simplicity
 - [Osmosys](https://yellowbrim.com/osmosys) - Seamlessly convert and send content from your website using email
@@ -108,7 +109,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [Emma](http://myemma.com/) - email marketing software to optimize targeted campaigns
 - [GetResponse](https://www.getresponse.com/) - email marketing platform with campaigns, online surveys, and follow-up autoresponders
 - [HubSpot](https://www.hubspot.com/products/marketing/email) - marketing, sales, and service software
-- [Keap](https://keap.com/) - service for CRM, sales, and marketing 
+- [Keap](https://keap.com/) - service for CRM, sales, and marketing
 - [Mailchimp](https://mailchimp.com/) - all-in-one integrated marketing platform
 - [MailerLite](https://www.mailerlite.com/features/newsletter-editor) - email marketing platform with a drag and drop editor
 - [Mailjet](https://www.mailjet.com/) - platform for email and SMS marketing
@@ -120,11 +121,12 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [Zoho Campaigns](https://www.zoho.com/campaigns/) - email marketing software that helps businesses drive more sales
 
 #### Open source
+
 - [listmonk](https://listmonk.app/) - self-hosted newsletter and mailing list manager
+- [Mailpoet](https://www.mailpoet.com/) - email plugin for WordPress to create and send newsletters through their own sending platform
 - [Mautic](https://www.mautic.org/) - community-driven marketing automation project
 - [SendPortal](https://sendportal.io/) - open-source self-hosted email marketing service that integrates with multiple providers
 - [Sendy](https://sendy.co/) - self-hosted email newsletter app that lets you send trackable emails through Amazon SNS
-- [Mailpoet](https://www.mailpoet.com/) - email plugin for WordPress to create and send newsletters through their own sending platform
 
 #### Transactional (APIs)
 
@@ -132,7 +134,6 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [MailerSend](https://www.mailersend.com/) - service for sending transactional and marketing emails with an easy to use template builder
 - [Postmark](https://postmarkapp.com/) - provider for sending application emails
 - [SendGrid](https://sendgrid.com/) - platform for transactional and marketing email
-
 
 ## Referral Programs
 
@@ -144,5 +145,5 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [ViralLoops](http://viral-loops.com/) - referral software for newsletters with templates
 
 ## Sponsorships
-- [Paved](https://www.paved.com/publishers) - Paved Marketplace offers a way for advertisers to find you for sponsorships.
 
+- [Paved](https://www.paved.com/publishers) - Paved Marketplace offers a way for advertisers to find you for sponsorships.
