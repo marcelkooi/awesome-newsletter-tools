@@ -68,7 +68,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 
 - [Inspiratio](https://inspirat.io/) - a simple, focused reading app for your newsletters
 - [Kill the newsletter](https://www.kill-the-newsletter.com/) - create an RSS feed from newsletter subscriptions
-- [Mailscribe Inbox](https://mailscribe.com/) - keep your inbox clean
+- [Mailscribe Inbox](https://mailscribe.com/page/inbox) - keep your inbox clean
 - [Mux](https://mux.to/) - receive and organize your newsletters in a special mailbox
 - [Slick Inbox](https://slickinbox.com/) - break free of a cluttered email inbox
 - [Stoop](https://stoopinbox.com/) - quit the news feed, embrace the newsletter
@@ -112,6 +112,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [Keap](https://keap.com/) - service for CRM, sales, and marketing
 - [Mailchimp](https://mailchimp.com/) - all-in-one integrated marketing platform
 - [MailerLite](https://www.mailerlite.com/features/newsletter-editor) - email marketing platform with a drag and drop editor
+- [Mailscribe Mailmaker](https://mailscribe.com/page/mailmaker) - AI-powered email marketing platform that allows to design email with built-in components
 - [Mailjet](https://www.mailjet.com/) - platform for email and SMS marketing
 - [MailUp](https://www.mailup.com/) - email marketing automation service
 - [Postcards](https://designmodo.com/postcards/) - intuitive email builder for teams and individuals
