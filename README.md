@@ -46,9 +46,8 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 
 #### Directories
 
-- [Discover by Revue](https://discover.getrevue.co/) - curated list of newsletters with search functionality
 - [Find Your Newsletter](https://findnewsletters.com/) - list of newsletters with categories and search functionality
-- [Inbox Reads](https://inboxreads.co/) - list of newsletters with topics, blog, and search functionality
+- [InboxReads](https://inboxreads.co/) - list of newsletters with topics, blog, and search functionality
 - [Inbox Stash](https://inboxstash.com/) - collections of amazing email newsletters on various topics, weekly digest of resources for newsletter creators and picks
 - [Letterlist](https://letterlist.com/) - curated list of newsletters with interviews
 - [Mailscribe Discover](https://mailscribe.com/discover) - categorized list of newsletters around the world
@@ -91,7 +90,6 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [Goodbits](https://goodbits.io/) - email newsletter builder that turns your saved bookmarks, social feeds, or Slack channel into curated article in minutes
 - [Iteretta](https://iteretta.com/) - Email newsletter service with a focus on simplicity
 - [Osmosys](https://yellowbrim.com/osmosys) - Seamlessly convert and send content from your website using email
-- [Revue](https://www.getrevue.co/) - editorial newsletter tool for writers and publishers
 - [Substack](https://substack.com/) - email newsletter platform designed for small publishers hoping to turn their subscribers into paying customers
 - [TinyLetter](https://tinyletter.com/) - free newsletter service with a focus on privacy
 - [Unalike](https://unalike.net/) - Collaborative newsletter publishing for writers and storytellers
