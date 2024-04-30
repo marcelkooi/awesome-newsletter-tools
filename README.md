@@ -34,14 +34,14 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [Newsletter Nerds](https://www.facebook.com/groups/NewsletterNerds/) - Facebook group with over 1200 members
 - [Newsletter Upstarts](https://bit.ly/newslttring) - Small group feedback meetups of newsletter owners, invite only. Apply for invite.
 - [r/Newsletters](http://reddit.com/r/newsletters) - Subreddit about newsletters with over 200 members
-- [Rad Letters on IntroSend](https://www.introsend.com/communities/rad-letters/join) - 1:1 pairing with 200+ newsletter creators
+- [Rad Letters on IntroSend](https://www.introsend.com/communities/rad-letters/join) - 1:1 pairing with other newsletter creators
 - [Substack Writers](https://www.facebook.com/groups/substackwriters) - Facebook group with over 300 members
 
 ## Deliverability
 
+- [Campaign Cleaner](https://campaigncleaner.com/) - Tool for optimizing HTML email campaigns for better performance.
 - [GlockApps](https://glockapps.com/) - tool to diagnose email deliverability problems
 - [GMass](https://www.gmass.co/) - platform used to increase open rates and send bulk emails
-- [Campaign Cleaner](https://campaigncleaner.com/) - Tool for optimizing HTML email campaigns for better performance.
 
 ## Discoverability
 
@@ -59,10 +59,6 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [NewsletterHunt](https://newsletterhunt.com/) - list of newsletters sorted by recently updated
 - [Substack Discover](https://substack.com/discover) - list of newsletters using Substack with search functionality
 - [Thanks for Subscribing](https://www.thanksforsubscribing.app/) - curated list of newsletters with topics and search functionality
-
-#### Podcasts
-
-- [Newsletter Crew](https://newslettercrew.com/) - interviews with newsletter creators
 
 ## Inbox Management
 
@@ -122,10 +118,10 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 
 #### Open source
 
+- [Keila](https://www.keila.io/) - open-source newsletter tool with visual campaign editor and Markdown support 
 - [listmonk](https://listmonk.app/) - self-hosted newsletter and mailing list manager
 - [Mailpoet](https://www.mailpoet.com/) - email plugin for WordPress to create and send newsletters through their own sending platform
 - [Mautic](https://www.mautic.org/) - community-driven marketing automation project
-- [Keila](https://www.keila.io/) - open-source newsletter tool with visual campaign editor and Markdown support 
 - [SendPortal](https://sendportal.io/) - open-source self-hosted email marketing service that integrates with multiple providers
 - [Sendy](https://sendy.co/) - self-hosted email newsletter app that lets you send trackable emails through Amazon SNS
 
