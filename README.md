@@ -125,6 +125,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [listmonk](https://listmonk.app/) - self-hosted newsletter and mailing list manager
 - [Mailpoet](https://www.mailpoet.com/) - email plugin for WordPress to create and send newsletters through their own sending platform
 - [Mautic](https://www.mautic.org/) - community-driven marketing automation project
+- [Keila](https://www.keila.io/) - open-source newsletter tool with visual campaign editor and Markdown support 
 - [SendPortal](https://sendportal.io/) - open-source self-hosted email marketing service that integrates with multiple providers
 - [Sendy](https://sendy.co/) - self-hosted email newsletter app that lets you send trackable emails through Amazon SNS
 
