@@ -24,11 +24,13 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 ## Advertisements
 
 - [Paved](https://www.paved.com/publishers) - Paved Ad Network offers auto-fill ads for publishers.
+- [Megahit](https://www.megahit.app/) - find advertiser leads among your subscribers
 
 ## Communities
 
 - [Indie Hackers Newsletter Crew](https://www.indiehackers.com/group/newsletter-crew) - group within the Indie Hackers community focused on newsletters
 - [Mailing List Hackers](https://www.mailinglisthackers.com/chat) - friendly chat community of mailing list and newsletter creators
+- [Newsletter Blueprint](https://lab.newsletterblueprint.com/) - Discord community for newsletter operators with over 500 members
 - [Newsletter Creators](https://www.facebook.com/groups/NewsletterCreators/) - Facebook group with over 2200 members
 - [Newsletter Crew](https://newslettercrew.com/) - community for paid newsletter creators
 - [Newsletter Nerds](https://www.facebook.com/groups/NewsletterNerds/) - Facebook group with over 1200 members
@@ -83,6 +85,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 
 #### Editorial
 
+- [Beehiiv](https://www.beehiiv.com/) - email newsletter platform from the team that built Morning Brew's tech
 - [Buttondown](https://buttondown.email/) - email newsletter platform tool with automation and emphasis on speed and ease of use
 - [Goodbits](https://goodbits.io/) - email newsletter builder that turns your saved bookmarks, social feeds, or Slack channel into curated article in minutes
 - [Iteretta](https://iteretta.com/) - Email newsletter service with a focus on simplicity
@@ -96,11 +99,13 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [AWeber](https://www.aweber.com/email-newsletters.htm) - email marketing service with a focus on power and simplicity
 - [BEE Pro](https://beefree.io/bee-pro/) - email design tools for marketing teams and agencies
 - [Benchmark](https://www.benchmarkemail.com/) - email marketing service to create ongoing customer engagement
+- [Brevo (formerly SendInBlue)](https://www.sendinblue.com/) - marketing platform with email marketing service
 - [Campaign Monitor](https://www.campaignmonitor.com/) - email marketing and automation service
 - [Campaigner](https://www.campaigner.com/) - email marketing service to create personalized 1:1 interfactions
 - [Constant Contact](https://blogs.constantcontact.com/) - email marketing software with automation
 - [ConvertKit](https://convertkit.com/) - email marketing tools and automation for online creators
 - [Drip](https://www.drip.com/) - marketing ecommerce CRM platform
+- [EmailOctopus](https://emailoctopus.com/) - email marketing and newsletter software
 - [Emma](http://myemma.com/) - email marketing software to optimize targeted campaigns
 - [GetResponse](https://www.getresponse.com/) - email marketing platform with campaigns, online surveys, and follow-up autoresponders
 - [HubSpot](https://www.hubspot.com/products/marketing/email) - marketing, sales, and service software
@@ -112,7 +117,6 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [MailUp](https://www.mailup.com/) - email marketing automation service
 - [Postcards](https://designmodo.com/postcards/) - intuitive email builder for teams and individuals
 - [Salesforce Pardot](https://www.pardot.com/) - marketing automation solution that easily integrates with Salesforce
-- [SendInBlue](https://www.sendinblue.com/) - marketing platform with email marketing service
 - [SendLoop](https://sendloop.com/) - email marketing automation service with a drag-n-drop email builder
 - [Zoho Campaigns](https://www.zoho.com/campaigns/) - email marketing software that helps businesses drive more sales
 
@@ -136,6 +140,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 ## Referral Programs
 
 - [Ambassador](https://www.getambassador.com/) - referral program software
+- [beehiiv Boosts](https://www.beehiiv.com/features/boosts) - recommendations service for newsletters on Beehiiv
 - [Firewards](https://www.firewards.com/) - referral service specific to email newsletters
 - [Gather](https://hq.gathercustomers.com/) - email marketing referral program software
 - [Mention Me](https://www.mention-me.com/) - referral marketing and customer retention software
@@ -145,3 +150,4 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 ## Sponsorships
 
 - [Paved](https://www.paved.com/publishers) - Paved Marketplace offers a way for advertisers to find you for sponsorships.
+- [Megahit](https://www.megahit.app/) - find sponsorship leads among your subscribers
