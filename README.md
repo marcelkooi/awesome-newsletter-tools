@@ -44,6 +44,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [Campaign Cleaner](https://campaigncleaner.com/) - Tool for optimizing HTML email campaigns for better performance.
 - [GlockApps](https://glockapps.com/) - tool to diagnose email deliverability problems
 - [GMass](https://www.gmass.co/) - platform used to increase open rates and send bulk emails
+- [Heybounce](https://www.heybounce.io) - Email verification service that checks if an email exists to reduce bounce rates.
 
 ## Discoverability
 
