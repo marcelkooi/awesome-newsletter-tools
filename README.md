@@ -124,7 +124,8 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 
 #### Open source
 
-- [Keila](https://www.keila.io/) - open-source newsletter tool with visual campaign editor and Markdown support 
+- [Keila](https://www.keila.io/) - open-source newsletter tool with visual campaign editor and Markdown support
+- [LetterSpace](https://letterspace.app/) - An open-source newsletter platform focused on excellent user experience and a robust API for data interaction
 - [listmonk](https://listmonk.app/) - self-hosted newsletter and mailing list manager
 - [Mailpoet](https://www.mailpoet.com/) - email plugin for WordPress to create and send newsletters through their own sending platform
 - [Mautic](https://www.mautic.org/) - community-driven marketing automation project
