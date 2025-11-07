@@ -60,6 +60,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [Newsletter Junkie](https://newsletterjunkie.com/) - curated list of newsletters with topics
 - [Newsletterest](https://newsletterest.com/) - list of newsletters with functionality to see past issues
 - [NewsletterHunt](https://newsletterhunt.com/) - list of newsletters sorted by recently updated
+- [NewsletterStack](https://www.newsletterstack.co) - curated list of newsletter tools and stacks of successful newsletters
 - [Substack Discover](https://substack.com/discover) - list of newsletters using Substack with search functionality
 - [Thanks for Subscribing](https://www.thanksforsubscribing.app/) - curated list of newsletters with topics and search functionality
 
