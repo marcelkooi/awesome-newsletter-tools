@@ -140,6 +140,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [MailerSend](https://www.mailersend.com/) - service for sending transactional and marketing emails with an easy to use template builder
 - [Postmark](https://postmarkapp.com/) - provider for sending application emails
 - [SendGrid](https://sendgrid.com/) - platform for transactional and marketing email
+- [Vedika API](https://vedika.io) - Vedic astrology API for personalized newsletter content (daily horoscope, rashifal, panchang) with 22 language support and AI chatbot integration
 
 ## Referral Programs
 
