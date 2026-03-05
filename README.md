@@ -50,6 +50,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 
 #### Directories
 
+- [Best Newsletters](https://bestnewsletters.xyz/) - curated directory to discover high-quality newsletters across different niches
 - [Find Your Newsletter](https://findnewsletters.com/) - list of newsletters with categories and search functionality
 - [InboxReads](https://inboxreads.co/) - list of newsletters with topics, blog, and search functionality
 - [Inbox Stash](https://inboxstash.com/) - collections of amazing email newsletters on various topics, weekly digest of resources for newsletter creators and picks
@@ -63,7 +64,6 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [NewsletterStack](https://www.newsletterstack.co) - curated list of newsletter tools and stacks of successful newsletters
 - [Substack Discover](https://substack.com/discover) - list of newsletters using Substack with search functionality
 - [Thanks for Subscribing](https://www.thanksforsubscribing.app/) - curated list of newsletters with topics and search functionality
-- [Best Newsletters](https://bestnewsletters.xyz/) - curated directory to discover high-quality newsletters across different niches
 
 ## Inbox Management
 
