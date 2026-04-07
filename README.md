@@ -63,6 +63,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [NewsletterStack](https://www.newsletterstack.co) - curated list of newsletter tools and stacks of successful newsletters
 - [Substack Discover](https://substack.com/discover) - list of newsletters using Substack with search functionality
 - [Thanks for Subscribing](https://www.thanksforsubscribing.app/) - curated list of newsletters with topics and search functionality
+- [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw
 
 ## Inbox Management
 
