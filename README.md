@@ -81,6 +81,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 
 - [Ghost](https://ghost.org/) - popular CMS for building blogs
 - [Wordpress](https://wordpress.com/) - popular CMS for building sites and blogs
+- [JustBlogged](https://justblogged.com/) - no-setup blogging platform with built-in SEO, start writing in 2 minutes
 
 #### Bundling
 
