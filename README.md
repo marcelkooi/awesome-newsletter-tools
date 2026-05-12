@@ -125,6 +125,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [SendLoop](https://sendloop.com/) - email marketing automation service with a drag-n-drop email builder
 - [Zoho Campaigns](https://www.zoho.com/campaigns/) - email marketing software that helps businesses drive more sales
 - [Fill Marketing](https://fillmarketing.com/) - one stop software that provides email marketing, surveys, automation for engaging your audience
+- [Newsletrix](https://newsletrix.com/) - AI newsletter analytics dashboard for competitor intelligence. Subject-line scoring, SWOT, ESP detection, CTA analysis, send-time heatmaps, and AI recommendations.
 
 #### Open source
 
