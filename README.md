@@ -23,8 +23,8 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 
 ## Advertisements
 
-- [Paved](https://www.paved.com/publishers) - Paved Ad Network offers auto-fill ads for publishers.
 - [Megahit](https://www.megahit.app/) - find advertiser leads among your subscribers
+- [Paved](https://www.paved.com/publishers) - Paved Ad Network offers auto-fill ads for publishers.
 
 ## Communities
 
@@ -53,8 +53,8 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 
 - [Best Newsletters](https://bestnewsletters.xyz/) - curated directory to discover high-quality newsletters across different niches
 - [Find Your Newsletter](https://findnewsletters.com/) - list of newsletters with categories and search functionality
-- [InboxReads](https://inboxreads.co/) - list of newsletters with topics, blog, and search functionality
 - [Inbox Stash](https://inboxstash.com/) - collections of amazing email newsletters on various topics, weekly digest of resources for newsletter creators and picks
+- [InboxReads](https://inboxreads.co/) - list of newsletters with topics, blog, and search functionality
 - [Letterlist](https://letterlist.com/) - curated list of newsletters with interviews
 - [Mailscribe Discover](https://mailscribe.com/discover) - categorized list of newsletters around the world
 - [mereku](http://mereku.com/) - discover and share newsletter content worth reading
@@ -81,8 +81,8 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 #### Blog-first
 
 - [Ghost](https://ghost.org/) - popular CMS for building blogs
-- [Wordpress](https://wordpress.com/) - popular CMS for building sites and blogs
 - [JustBlogged](https://justblogged.com/) - no-setup blogging platform with built-in SEO, start writing in 2 minutes
+- [Wordpress](https://wordpress.com/) - popular CMS for building sites and blogs
 
 #### Bundling
 
@@ -112,21 +112,21 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [Drip](https://www.drip.com/) - marketing ecommerce CRM platform
 - [EmailOctopus](https://emailoctopus.com/) - email marketing and newsletter software
 - [Emma](http://myemma.com/) - email marketing software to optimize targeted campaigns
+- [Fill Marketing](https://fillmarketing.com/) - one stop software that provides email marketing, surveys, automation for engaging your audience
 - [GetResponse](https://www.getresponse.com/) - email marketing platform with campaigns, online surveys, and follow-up autoresponders
 - [HubSpot](https://www.hubspot.com/products/marketing/email) - marketing, sales, and service software
 - [Keap](https://keap.com/) - service for CRM, sales, and marketing
 - [Mailchimp](https://mailchimp.com/) - all-in-one integrated marketing platform
-- [Sequenzy](https://www.sequenzy.com/) - email marketing and transactional email platform for SaaS teams
 - [MailerLite](https://www.mailerlite.com/features/newsletter-editor) - email marketing platform with a drag and drop editor
-- [Mailscribe Mailmaker](https://mailscribe.com/page/mailmaker) - AI-powered email marketing platform that allows to design email with built-in components
 - [Mailjet](https://www.mailjet.com/) - platform for email and SMS marketing
+- [Mailscribe Mailmaker](https://mailscribe.com/page/mailmaker) - AI-powered email marketing platform that allows to design email with built-in components
 - [MailUp](https://www.mailup.com/) - email marketing automation service
+- [Newsletrix](https://newsletrix.com/) - AI newsletter analytics dashboard for competitor intelligence. Subject-line scoring, SWOT, ESP detection, CTA analysis, send-time heatmaps, and AI recommendations.
 - [Postcards](https://designmodo.com/postcards/) - intuitive email builder for teams and individuals
 - [Salesforce Pardot](https://www.pardot.com/) - marketing automation solution that easily integrates with Salesforce
 - [SendLoop](https://sendloop.com/) - email marketing automation service with a drag-n-drop email builder
+- [Sequenzy](https://www.sequenzy.com/) - email marketing and transactional email platform for SaaS teams
 - [Zoho Campaigns](https://www.zoho.com/campaigns/) - email marketing software that helps businesses drive more sales
-- [Fill Marketing](https://fillmarketing.com/) - one stop software that provides email marketing, surveys, automation for engaging your audience
-- [Newsletrix](https://newsletrix.com/) - AI newsletter analytics dashboard for competitor intelligence. Subject-line scoring, SWOT, ESP detection, CTA analysis, send-time heatmaps, and AI recommendations.
 
 #### Open source
 
@@ -141,8 +141,8 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 #### Transactional (APIs)
 
 - [Forward Email](https://forwardemail.net) - privacy-focused open-source email service with transactional email API, IMAP, SMTP, and encrypted SQLite storage
-- [Mailgun](https://www.mailgun.com/) - email API service for sending, receiving, and tracking emails
 - [MailerSend](https://www.mailersend.com/) - service for sending transactional and marketing emails with an easy to use template builder
+- [Mailgun](https://www.mailgun.com/) - email API service for sending, receiving, and tracking emails
 - [Postmark](https://postmarkapp.com/) - provider for sending application emails
 - [SendGrid](https://sendgrid.com/) - platform for transactional and marketing email
 
@@ -158,5 +158,5 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 
 ## Sponsorships
 
-- [Paved](https://www.paved.com/publishers) - Paved Marketplace offers a way for advertisers to find you for sponsorships.
 - [Megahit](https://www.megahit.app/) - find sponsorship leads among your subscribers
+- [Paved](https://www.paved.com/publishers) - Paved Marketplace offers a way for advertisers to find you for sponsorships.
