@@ -82,6 +82,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 
 - [Ghost](https://ghost.org/) - popular CMS for building blogs
 - [JustBlogged](https://justblogged.com/) - no-setup blogging platform with built-in SEO, start writing in 2 minutes
+- [UnfoldCMS](https://unfoldcms.com) - self-hosted CMS built on Laravel 12 + React 19 with a REST API, headless mode, and HMAC webhooks. Works with Next.js, Astro, SvelteKit, and Nuxt. ([Source Code](https://github.com/hpakdaman/unfoldcms))
 - [Wordpress](https://wordpress.com/) - popular CMS for building sites and blogs
 
 #### Bundling
