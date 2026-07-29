@@ -42,6 +42,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 ## Deliverability
 
 - [Campaign Cleaner](https://campaigncleaner.com/) - Tool for optimizing HTML email campaigns for better performance.
+- [Email Subject Line Tester](https://alltoolsverse.com/tools/email-subject-line-tester/) - Browser-based subject line analyzer with length guidance, heuristic spam-trigger checks, and mobile and desktop inbox previews.
 - [GlockApps](https://glockapps.com/) - tool to diagnose email deliverability problems
 - [GMass](https://www.gmass.co/) - platform used to increase open rates and send bulk emails
 - [Heybounce](https://www.heybounce.io) - Email verification service that checks if an email exists to reduce bounce rates.
