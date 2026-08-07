@@ -127,6 +127,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [SendLoop](https://sendloop.com/) - email marketing automation service with a drag-n-drop email builder
 - [Sequenzy](https://www.sequenzy.com/) - email marketing and transactional email platform for SaaS teams
 - [Zoho Campaigns](https://www.zoho.com/campaigns/) - email marketing software that helps businesses drive more sales
+- [Autoposting](https://autoposting.ai) - AI social media manager that writes, clips and schedules posts across five networks
 
 #### Open source
 
