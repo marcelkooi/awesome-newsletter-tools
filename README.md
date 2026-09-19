@@ -131,6 +131,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [Salesforce Pardot](https://www.pardot.com/) - marketing automation solution that easily integrates with Salesforce
 - [SendLoop](https://sendloop.com/) - email marketing automation service with a drag-n-drop email builder
 - [Sequenzy](https://www.sequenzy.com/) - email marketing and transactional email platform for SaaS teams
+- [Stripo](https://stripo.email) - drag-n-drop and HTML email builder with 1,690+ responsive templates and export to 90+ ESPs
 - [Zoho Campaigns](https://www.zoho.com/campaigns/) - email marketing software that helps businesses drive more sales
 
 #### Open source
