@@ -143,6 +143,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [Mautic](https://www.mautic.org/) - community-driven marketing automation project
 - [SendPortal](https://sendportal.io/) - open-source self-hosted email marketing service that integrates with multiple providers
 - [Sendy](https://sendy.co/) - self-hosted email newsletter app that lets you send trackable emails through Amazon SNS
+- [Xem](https://xem.email/) - open-source email marketing platform with recurring newsletters, editable templates, audience lists, and bring-your-own SMTP delivery
 
 #### Transactional (APIs)
 
