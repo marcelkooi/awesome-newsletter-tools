@@ -70,6 +70,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [Rad Letters](https://www.radletters.com) - discover the best curated newsletters
 - [Substack Discover](https://substack.com/discover) - list of newsletters using Substack with search functionality
 - [Thanks for Subscribing](https://www.thanksforsubscribing.app/) - curated list of newsletters with topics and search functionality
+- [Newsletter Surf](https://newsletter.surf) - A curated directory of newsletters worth your inbox, organized by category.
 
 ## Inbox Management
 
