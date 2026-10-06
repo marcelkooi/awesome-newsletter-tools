@@ -166,3 +166,4 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 
 - [Megahit](https://www.megahit.app/) - find sponsorship leads among your subscribers
 - [Paved](https://www.paved.com/publishers) - Paved Marketplace offers a way for advertisers to find you for sponsorships.
+- [TGScope Channel Audit](https://tgscope.io/tools/telegram-channel-audit) - check how many subscribers of a Telegram channel actually read it and forecast views and CPM of a sponsored post
