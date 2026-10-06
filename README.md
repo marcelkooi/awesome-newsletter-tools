@@ -19,6 +19,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
   - [Open source](#open-source)
   - [Transactional](#transactional)
 - [Referral Programs](#referral-programs)
+- [Affiliate Networks](#affiliate-networks)
 - [Sponsorships](#sponsorships)
 
 ## Advertisements
@@ -161,6 +162,10 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [Mention Me](https://www.mention-me.com/) - referral marketing and customer retention software
 - [SparkLoop](https://sparkloop.app/) - referral service specific to email newsletters
 - [ViralLoops](http://viral-loops.com/) - referral software for newsletters with templates
+
+## Affiliate Networks
+
+- [Power CM Partners](https://partners.powercm-software.com/) - free partner network where newsletter publishers can discover software campaigns, track attributed registrations and verified sales, and earn commissions
 
 ## Sponsorships
 
