@@ -44,6 +44,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [Campaign Cleaner](https://campaigncleaner.com/) - Tool for optimizing HTML email campaigns for better performance.
 - [Canny Pigeons](https://cannypigeons.com/) - DMARC monitoring platform with DNS drift alerts, IP threat intel and unlimited users. First domain is free - no credit card required.
 - [Email Campaign Preflight](https://github.com/Kndll33/email-campaign-preflight-demo) - Offline static HTML campaign QA for links, UTM coverage, image alt text, preheaders, and unsubscribe evidence, with JSON and Markdown reports; not a rendering or deliverability test.
+- [Email Spam Tester](https://email-spam-tester.com/) - Free, no-signup check of SPF, DKIM, DMARC and blocklists, plus the folder the message lands in at Gmail, Outlook, Yahoo and other providers.
 - [GlockApps](https://glockapps.com/) - tool to diagnose email deliverability problems
 - [GMass](https://www.gmass.co/) - platform used to increase open rates and send bulk emails
 - [Heybounce](https://www.heybounce.io) - Email verification service that checks if an email exists to reduce bounce rates.
