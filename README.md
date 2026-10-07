@@ -115,6 +115,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [Constant Contact](https://blogs.constantcontact.com/) - email marketing software with automation
 - [ConvertKit](https://convertkit.com/) - email marketing tools and automation for online creators
 - [Drip](https://www.drip.com/) - marketing ecommerce CRM platform
+- [Email Marketing Bible](https://github.com/CosmoBlk/email-marketing-bible) - free, open-source skill for Claude, Codex and other AI agents covering newsletter flows, deliverability triage, copy editing, email design and ESP control via MCP, built on 908 sources
 - [EmailOctopus](https://emailoctopus.com/) - email marketing and newsletter software
 - [Emma](http://myemma.com/) - email marketing software to optimize targeted campaigns
 - [Fill Marketing](https://fillmarketing.com/) - one stop software that provides email marketing, surveys, automation for engaging your audience
