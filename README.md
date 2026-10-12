@@ -23,6 +23,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 
 ## Advertisements
 
+- [Advoratise](https://advoratise.com) - Two-sided marketplace to book and monetize newsletter and podcast advertising.
 - [Megahit](https://www.megahit.app/) - find advertiser leads among your subscribers
 - [Paved](https://www.paved.com/publishers) - Paved Ad Network offers auto-fill ads for publishers.
 
@@ -164,5 +165,6 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 
 ## Sponsorships
 
+- [Advoratise](https://advoratise.com) - Two-sided marketplace connecting newsletter publishers with verified sponsors.
 - [Megahit](https://www.megahit.app/) - find sponsorship leads among your subscribers
 - [Paved](https://www.paved.com/publishers) - Paved Marketplace offers a way for advertisers to find you for sponsorships.
