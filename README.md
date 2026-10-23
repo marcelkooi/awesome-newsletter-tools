@@ -137,6 +137,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 
 - [Keila](https://www.keila.io/) - open-source newsletter tool with visual campaign editor and Markdown support
 - [LetterSpace](https://letterspace.app/) - An open-source newsletter platform focused on excellent user experience and a robust API for data interaction
+- [lfr](https://lfr.email/) - self-hosted mailboxes and newsletters with their own websites, run from one Go binary on a small server
 - [listmonk](https://listmonk.app/) - self-hosted newsletter and mailing list manager
 - [Mailpoet](https://www.mailpoet.com/) - email plugin for WordPress to create and send newsletters through their own sending platform
 - [MailySend](https://github.com/GagnDeep/mailysend) - self-hosted platform pairing a Resend-compatible sending API with audiences, live segments and broadcasts, running on Cloudflare Workers or Node in your own account
