@@ -50,6 +50,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [Inboxproof](https://inboxproof-phi.vercel.app/) - Free, no-signup email deliverability audit: SPF, DKIM, DMARC, TLS and IP reputation in ~30s, with a spam-risk score.
 - [ReviewMyDNS](https://reviewmydns.com/) - Plain-English DNS and email deliverability checker (SPF, DKIM, DMARC).
 - [Scrupp](https://scrupp.com/) - SMTP-verified email enrichment pulled from LinkedIn/Sales Navigator profiles, useful for building clean B2B newsletter subscriber lists with low bounce rates.
+- [WebToolBench Email Deliverability Checker](https://www.webtoolbench.com/email-deliverability-checker) - Free, no-signup check of SPF, DKIM, DMARC and MX records with a deliverability score and a plain explanation of each failure.
 
 ## Discoverability
 
