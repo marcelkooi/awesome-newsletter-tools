@@ -141,6 +141,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [Mailpoet](https://www.mailpoet.com/) - email plugin for WordPress to create and send newsletters through their own sending platform
 - [MailySend](https://github.com/GagnDeep/mailysend) - self-hosted platform pairing a Resend-compatible sending API with audiences, live segments and broadcasts, running on Cloudflare Workers or Node in your own account
 - [Mautic](https://www.mautic.org/) - community-driven marketing automation project
+- [SendLit](https://github.com/codelitdev/sendlit) - open-source email platform for newsletters, campaigns and sequences via your own SES/SMTP, with a provisioning API and embeddable editor
 - [SendPortal](https://sendportal.io/) - open-source self-hosted email marketing service that integrates with multiple providers
 - [Sendy](https://sendy.co/) - self-hosted email newsletter app that lets you send trackable emails through Amazon SNS
 
