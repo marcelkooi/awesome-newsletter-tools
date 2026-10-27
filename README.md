@@ -121,6 +121,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [GetResponse](https://www.getresponse.com/) - email marketing platform with campaigns, online surveys, and follow-up autoresponders
 - [HubSpot](https://www.hubspot.com/products/marketing/email) - marketing, sales, and service software
 - [Keap](https://keap.com/) - service for CRM, sales, and marketing
+- [Kicklace](https://kicklace.com/) - lifecycle email for saas teams, written from your website and sent when customers act
 - [Mailchimp](https://mailchimp.com/) - all-in-one integrated marketing platform
 - [MailerLite](https://www.mailerlite.com/features/newsletter-editor) - email marketing platform with a drag and drop editor
 - [Mailjet](https://www.mailjet.com/) - platform for email and SMS marketing
