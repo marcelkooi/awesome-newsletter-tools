@@ -48,6 +48,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [GMass](https://www.gmass.co/) - platform used to increase open rates and send bulk emails
 - [Heybounce](https://www.heybounce.io) - Email verification service that checks if an email exists to reduce bounce rates.
 - [Inboxproof](https://inboxproof-phi.vercel.app/) - Free, no-signup email deliverability audit: SPF, DKIM, DMARC, TLS and IP reputation in ~30s, with a spam-risk score.
+- [MailVeri](https://mailveri.com/) - Bulk and real-time email verification (SMTP, catch-all, disposable and role detection) to keep newsletter lists clean; pay-as-you-go credits that never expire, 1,000 free.
 - [ReviewMyDNS](https://reviewmydns.com/) - Plain-English DNS and email deliverability checker (SPF, DKIM, DMARC).
 - [Scrupp](https://scrupp.com/) - SMTP-verified email enrichment pulled from LinkedIn/Sales Navigator profiles, useful for building clean B2B newsletter subscriber lists with low bounce rates.
 
