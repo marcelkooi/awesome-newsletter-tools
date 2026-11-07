@@ -70,6 +70,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [Rad Letters](https://www.radletters.com) - discover the best curated newsletters
 - [Substack Discover](https://substack.com/discover) - list of newsletters using Substack with search functionality
 - [Thanks for Subscribing](https://www.thanksforsubscribing.app/) - curated list of newsletters with topics and search functionality
+- [They Sent It](https://theysentit.com/) - free archive of real marketing emails from 60,000+ brands, searchable by brand and email platform, with sending frequency for each brand
 
 ## Inbox Management
 
