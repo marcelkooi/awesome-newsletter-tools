@@ -5,6 +5,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 #### Table of Contents
 
 - [Advertisements](#advertisements)
+- [AI Tools](#ai-tools)
 - [Communities](#communities)
 - [Deliverability](#deliverability)
 - [Discoverability](#discoverability)
@@ -26,6 +27,10 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [distribution.dev](https://distribution.dev/publishers/) - Developer ad network for newsletters and sites: one labeled ad from reviewed developer-tool companies, 70% revenue share, paid monthly.
 - [Megahit](https://www.megahit.app/) - find advertiser leads among your subscribers
 - [Paved](https://www.paved.com/publishers) - Paved Ad Network offers auto-fill ads for publishers.
+
+## AI Tools
+
+- [Email Marketing Bible](https://github.com/CosmoBlk/email-marketing-bible) - free, open-source skill for Claude, Codex and other AI agents covering newsletter flows, deliverability triage, copy editing, email design and ESP control via MCP, built on 908 sources
 
 ## Communities
 
@@ -120,7 +125,6 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [ConvertKit](https://convertkit.com/) - email marketing tools and automation for online creators
 - [day3](https://day3.app/) - email marketing and transactional email for small software teams, billed by emails sent instead of list size
 - [Drip](https://www.drip.com/) - marketing ecommerce CRM platform
-- [Email Marketing Bible](https://github.com/CosmoBlk/email-marketing-bible) - free, open-source skill for Claude, Codex and other AI agents covering newsletter flows, deliverability triage, copy editing, email design and ESP control via MCP, built on 908 sources
 - [EmailOctopus](https://emailoctopus.com/) - email marketing and newsletter software
 - [Emma](http://myemma.com/) - email marketing software to optimize targeted campaigns
 - [Fill Marketing](https://fillmarketing.com/) - one stop software that provides email marketing, surveys, automation for engaging your audience
