@@ -12,6 +12,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
   - [Directories](#directories)
   - [Podcasts](#podcasts)
 - [Inbox Management](#inbox-management)
+- [Inspiration](#inspiration)
 - [Platforms](#platforms)
   - [Blog-first](#blog-first)
   - [Bundling](#bundling)
@@ -89,6 +90,10 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [Slick Inbox](https://slickinbox.com/) - break free of a cluttered email inbox
 - [Stoop](https://stoopinbox.com/) - quit the news feed, embrace the newsletter
 - [Supscrib](https://supscrib.com/) - the new way of subscribing anonymously to newsletters
+
+## Inspiration
+
+- [They Sent It](https://theysentit.com/) - free archive of real marketing emails from 60,000+ brands, searchable by brand and email platform, with sending frequency for each brand
 
 ## Platforms
 
