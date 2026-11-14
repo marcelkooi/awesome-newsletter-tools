@@ -66,13 +66,13 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [mereku](http://mereku.com/) - discover and share newsletter content worth reading
 - [News Bundler](https://newsbundler.com/) - directory with the ability to create bundles
 - [Newsletter Junkie](https://newsletterjunkie.com/) - curated list of newsletters with topics
+- [Newsletter Surf](https://newsletter.surf) - A curated directory of newsletters worth your inbox, organized by category.
 - [Newsletterest](https://newsletterest.com/) - list of newsletters with functionality to see past issues
 - [NewsletterHunt](https://newsletterhunt.com/) - list of newsletters sorted by recently updated
 - [NewsletterStack](https://www.newsletterstack.co) - curated list of newsletter tools and stacks of successful newsletters
 - [Rad Letters](https://www.radletters.com) - discover the best curated newsletters
 - [Substack Discover](https://substack.com/discover) - list of newsletters using Substack with search functionality
 - [Thanks for Subscribing](https://www.thanksforsubscribing.app/) - curated list of newsletters with topics and search functionality
-- [Newsletter Surf](https://newsletter.surf) - A curated directory of newsletters worth your inbox, organized by category.
 
 ## Inbox Management
 
