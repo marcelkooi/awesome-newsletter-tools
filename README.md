@@ -5,12 +5,14 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 #### Table of Contents
 
 - [Advertisements](#advertisements)
+- [AI Tools](#ai-tools)
 - [Communities](#communities)
 - [Deliverability](#deliverability)
 - [Discoverability](#discoverability)
   - [Directories](#directories)
   - [Podcasts](#podcasts)
 - [Inbox Management](#inbox-management)
+- [Inspiration](#inspiration)
 - [Platforms](#platforms)
   - [Blog-first](#blog-first)
   - [Bundling](#bundling)
@@ -23,8 +25,13 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 
 ## Advertisements
 
+- [distribution.dev](https://distribution.dev/publishers/) - Developer ad network for newsletters and sites: one labeled ad from reviewed developer-tool companies, 70% revenue share, paid monthly.
 - [Megahit](https://www.megahit.app/) - find advertiser leads among your subscribers
 - [Paved](https://www.paved.com/publishers) - Paved Ad Network offers auto-fill ads for publishers.
+
+## AI Tools
+
+- [Email Marketing Bible](https://github.com/CosmoBlk/email-marketing-bible) - free, open-source skill for Claude, Codex and other AI agents covering newsletter flows, deliverability triage, copy editing, email design and ESP control via MCP, built on 908 sources
 
 ## Communities
 
@@ -45,6 +52,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [Canny Pigeons](https://cannypigeons.com/) - DMARC monitoring platform with DNS drift alerts, IP threat intel and unlimited users. First domain is free - no credit card required.
 - [Email Campaign Preflight](https://github.com/Kndll33/email-campaign-preflight-demo) - Offline static HTML campaign QA for links, UTM coverage, image alt text, preheaders, and unsubscribe evidence, with JSON and Markdown reports; not a rendering or deliverability test.
 - [Email Spam Tester](https://email-spam-tester.com/) - Free, no-signup check of SPF, DKIM, DMARC and blocklists, plus the folder the message lands in at Gmail, Outlook, Yahoo and other providers.
+- [Email Subject Line Tester](https://alltoolsverse.com/tools/email-subject-line-tester/) - Browser-based subject line analyzer with length guidance, heuristic spam-trigger checks, and mobile and desktop inbox previews.
 - [GlockApps](https://glockapps.com/) - tool to diagnose email deliverability problems
 - [GMass](https://www.gmass.co/) - platform used to increase open rates and send bulk emails
 - [Heybounce](https://www.heybounce.io) - Email verification service that checks if an email exists to reduce bounce rates.
@@ -65,6 +73,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [mereku](http://mereku.com/) - discover and share newsletter content worth reading
 - [News Bundler](https://newsbundler.com/) - directory with the ability to create bundles
 - [Newsletter Junkie](https://newsletterjunkie.com/) - curated list of newsletters with topics
+- [Newsletter Surf](https://newsletter.surf) - A curated directory of newsletters worth your inbox, organized by category.
 - [Newsletterest](https://newsletterest.com/) - list of newsletters with functionality to see past issues
 - [NewsletterHunt](https://newsletterhunt.com/) - list of newsletters sorted by recently updated
 - [NewsletterStack](https://www.newsletterstack.co) - curated list of newsletter tools and stacks of successful newsletters
@@ -76,11 +85,16 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 
 - [Inspiratio](https://inspirat.io/) - a simple, focused reading app for your newsletters
 - [Kill the newsletter](https://www.kill-the-newsletter.com/) - create an RSS feed from newsletter subscriptions
+- [MailMop](https://mailmop.com/) - rank Gmail senders by volume and bulk delete or unsubscribe from them
 - [Mailscribe Inbox](https://mailscribe.com/page/inbox) - keep your inbox clean
 - [Mux](https://mux.to/) - receive and organize your newsletters in a special mailbox
 - [Slick Inbox](https://slickinbox.com/) - break free of a cluttered email inbox
 - [Stoop](https://stoopinbox.com/) - quit the news feed, embrace the newsletter
 - [Supscrib](https://supscrib.com/) - the new way of subscribing anonymously to newsletters
+
+## Inspiration
+
+- [They Sent It](https://theysentit.com/) - free archive of real marketing emails from 60,000+ brands, searchable by brand and email platform, with sending frequency for each brand
 
 ## Platforms
 
@@ -115,6 +129,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [Campaigner](https://www.campaigner.com/) - email marketing service to create personalized 1:1 interfactions
 - [Constant Contact](https://blogs.constantcontact.com/) - email marketing software with automation
 - [ConvertKit](https://convertkit.com/) - email marketing tools and automation for online creators
+- [day3](https://day3.app/) - email marketing and transactional email for small software teams, billed by emails sent instead of list size
 - [Drip](https://www.drip.com/) - marketing ecommerce CRM platform
 - [EmailOctopus](https://emailoctopus.com/) - email marketing and newsletter software
 - [Emma](http://myemma.com/) - email marketing software to optimize targeted campaigns
@@ -132,16 +147,19 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [Salesforce Pardot](https://www.pardot.com/) - marketing automation solution that easily integrates with Salesforce
 - [SendLoop](https://sendloop.com/) - email marketing automation service with a drag-n-drop email builder
 - [Sequenzy](https://www.sequenzy.com/) - email marketing and transactional email platform for SaaS teams
+- [Stripo](https://stripo.email) - drag-n-drop and HTML email builder with 1,690+ responsive templates and export to 90+ ESPs
 - [Zoho Campaigns](https://www.zoho.com/campaigns/) - email marketing software that helps businesses drive more sales
 
 #### Open source
 
 - [Keila](https://www.keila.io/) - open-source newsletter tool with visual campaign editor and Markdown support
 - [LetterSpace](https://letterspace.app/) - An open-source newsletter platform focused on excellent user experience and a robust API for data interaction
+- [lfr](https://lfr.email/) - self-hosted mailboxes and newsletters with their own websites, run from one Go binary on a small server
 - [listmonk](https://listmonk.app/) - self-hosted newsletter and mailing list manager
 - [Mailpoet](https://www.mailpoet.com/) - email plugin for WordPress to create and send newsletters through their own sending platform
 - [MailySend](https://github.com/GagnDeep/mailysend) - self-hosted platform pairing a Resend-compatible sending API with audiences, live segments and broadcasts, running on Cloudflare Workers or Node in your own account
 - [Mautic](https://www.mautic.org/) - community-driven marketing automation project
+- [SendLit](https://github.com/codelitdev/sendlit) - open-source email platform for newsletters, campaigns and sequences via your own SES/SMTP, with a provisioning API and embeddable editor
 - [SendPortal](https://sendportal.io/) - open-source self-hosted email marketing service that integrates with multiple providers
 - [Sendy](https://sendy.co/) - self-hosted email newsletter app that lets you send trackable emails through Amazon SNS
 
