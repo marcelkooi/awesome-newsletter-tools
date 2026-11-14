@@ -166,3 +166,4 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 
 - [Megahit](https://www.megahit.app/) - find sponsorship leads among your subscribers
 - [Paved](https://www.paved.com/publishers) - Paved Marketplace offers a way for advertisers to find you for sponsorships.
+- [Newsletter Sponsorship Rate Calculator](https://www.inboxwisetools.com/tools/newsletter-sponsorship-rate-calculator/) - free calculator that prices a sponsored placement from subscribers, open rate and CPM, with implied CPC and a copyable rate quote
