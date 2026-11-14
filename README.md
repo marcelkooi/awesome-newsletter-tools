@@ -118,6 +118,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [Campaigner](https://www.campaigner.com/) - email marketing service to create personalized 1:1 interfactions
 - [Constant Contact](https://blogs.constantcontact.com/) - email marketing software with automation
 - [ConvertKit](https://convertkit.com/) - email marketing tools and automation for online creators
+- [day3](https://day3.app/) - email marketing and transactional email for small software teams, billed by emails sent instead of list size
 - [Drip](https://www.drip.com/) - marketing ecommerce CRM platform
 - [EmailOctopus](https://emailoctopus.com/) - email marketing and newsletter software
 - [Emma](http://myemma.com/) - email marketing software to optimize targeted campaigns
