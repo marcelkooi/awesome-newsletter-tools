@@ -11,6 +11,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
   - [Directories](#directories)
   - [Podcasts](#podcasts)
 - [Inbox Management](#inbox-management)
+- [Inspiration](#inspiration)
 - [Platforms](#platforms)
   - [Blog-first](#blog-first)
   - [Bundling](#bundling)
@@ -73,7 +74,6 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [Rad Letters](https://www.radletters.com) - discover the best curated newsletters
 - [Substack Discover](https://substack.com/discover) - list of newsletters using Substack with search functionality
 - [Thanks for Subscribing](https://www.thanksforsubscribing.app/) - curated list of newsletters with topics and search functionality
-- [They Sent It](https://theysentit.com/) - free archive of real marketing emails from 60,000+ brands, searchable by brand and email platform, with sending frequency for each brand
 
 ## Inbox Management
 
@@ -85,6 +85,10 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [Slick Inbox](https://slickinbox.com/) - break free of a cluttered email inbox
 - [Stoop](https://stoopinbox.com/) - quit the news feed, embrace the newsletter
 - [Supscrib](https://supscrib.com/) - the new way of subscribing anonymously to newsletters
+
+## Inspiration
+
+- [They Sent It](https://theysentit.com/) - free archive of real marketing emails from 60,000+ brands, searchable by brand and email platform, with sending frequency for each brand
 
 ## Platforms
 
