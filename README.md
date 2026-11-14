@@ -42,10 +42,14 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 ## Deliverability
 
 - [Campaign Cleaner](https://campaigncleaner.com/) - Tool for optimizing HTML email campaigns for better performance.
+- [Canny Pigeons](https://cannypigeons.com/) - DMARC monitoring platform with DNS drift alerts, IP threat intel and unlimited users. First domain is free - no credit card required.
+- [Email Campaign Preflight](https://github.com/Kndll33/email-campaign-preflight-demo) - Offline static HTML campaign QA for links, UTM coverage, image alt text, preheaders, and unsubscribe evidence, with JSON and Markdown reports; not a rendering or deliverability test.
 - [Email Subject Line Tester](https://alltoolsverse.com/tools/email-subject-line-tester/) - Browser-based subject line analyzer with length guidance, heuristic spam-trigger checks, and mobile and desktop inbox previews.
 - [GlockApps](https://glockapps.com/) - tool to diagnose email deliverability problems
 - [GMass](https://www.gmass.co/) - platform used to increase open rates and send bulk emails
 - [Heybounce](https://www.heybounce.io) - Email verification service that checks if an email exists to reduce bounce rates.
+- [Inboxproof](https://inboxproof-phi.vercel.app/) - Free, no-signup email deliverability audit: SPF, DKIM, DMARC, TLS and IP reputation in ~30s, with a spam-risk score.
+- [ReviewMyDNS](https://reviewmydns.com/) - Plain-English DNS and email deliverability checker (SPF, DKIM, DMARC).
 - [Scrupp](https://scrupp.com/) - SMTP-verified email enrichment pulled from LinkedIn/Sales Navigator profiles, useful for building clean B2B newsletter subscriber lists with low bounce rates.
 
 ## Discoverability
@@ -64,6 +68,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [Newsletterest](https://newsletterest.com/) - list of newsletters with functionality to see past issues
 - [NewsletterHunt](https://newsletterhunt.com/) - list of newsletters sorted by recently updated
 - [NewsletterStack](https://www.newsletterstack.co) - curated list of newsletter tools and stacks of successful newsletters
+- [Rad Letters](https://www.radletters.com) - discover the best curated newsletters
 - [Substack Discover](https://substack.com/discover) - list of newsletters using Substack with search functionality
 - [Thanks for Subscribing](https://www.thanksforsubscribing.app/) - curated list of newsletters with topics and search functionality
 
@@ -135,6 +140,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [LetterSpace](https://letterspace.app/) - An open-source newsletter platform focused on excellent user experience and a robust API for data interaction
 - [listmonk](https://listmonk.app/) - self-hosted newsletter and mailing list manager
 - [Mailpoet](https://www.mailpoet.com/) - email plugin for WordPress to create and send newsletters through their own sending platform
+- [MailySend](https://github.com/GagnDeep/mailysend) - self-hosted platform pairing a Resend-compatible sending API with audiences, live segments and broadcasts, running on Cloudflare Workers or Node in your own account
 - [Mautic](https://www.mautic.org/) - community-driven marketing automation project
 - [SendPortal](https://sendportal.io/) - open-source self-hosted email marketing service that integrates with multiple providers
 - [Sendy](https://sendy.co/) - self-hosted email newsletter app that lets you send trackable emails through Amazon SNS
