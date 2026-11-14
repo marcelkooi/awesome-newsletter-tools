@@ -23,6 +23,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 
 ## Advertisements
 
+- [distribution.dev](https://distribution.dev/publishers/) - Developer ad network for newsletters and sites: one labeled ad from reviewed developer-tool companies, 70% revenue share, paid monthly.
 - [Megahit](https://www.megahit.app/) - find advertiser leads among your subscribers
 - [Paved](https://www.paved.com/publishers) - Paved Ad Network offers auto-fill ads for publishers.
 
