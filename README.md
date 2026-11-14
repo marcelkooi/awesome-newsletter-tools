@@ -78,6 +78,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 
 - [Inspiratio](https://inspirat.io/) - a simple, focused reading app for your newsletters
 - [Kill the newsletter](https://www.kill-the-newsletter.com/) - create an RSS feed from newsletter subscriptions
+- [MailMop](https://mailmop.com/) - rank Gmail senders by volume and bulk delete or unsubscribe from them
 - [Mailscribe Inbox](https://mailscribe.com/page/inbox) - keep your inbox clean
 - [Mux](https://mux.to/) - receive and organize your newsletters in a special mailbox
 - [Slick Inbox](https://slickinbox.com/) - break free of a cluttered email inbox
