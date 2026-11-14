@@ -5,6 +5,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 #### Table of Contents
 
 - [Advertisements](#advertisements)
+- [AI Tools](#ai-tools)
 - [Communities](#communities)
 - [Deliverability](#deliverability)
 - [Discoverability](#discoverability)
@@ -26,6 +27,10 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [distribution.dev](https://distribution.dev/publishers/) - Developer ad network for newsletters and sites: one labeled ad from reviewed developer-tool companies, 70% revenue share, paid monthly.
 - [Megahit](https://www.megahit.app/) - find advertiser leads among your subscribers
 - [Paved](https://www.paved.com/publishers) - Paved Ad Network offers auto-fill ads for publishers.
+
+## AI Tools
+
+- [Email Marketing Bible](https://github.com/CosmoBlk/email-marketing-bible) - free, open-source skill for Claude, Codex and other AI agents covering newsletter flows, deliverability triage, copy editing, email design and ESP control via MCP, built on 908 sources
 
 ## Communities
 
