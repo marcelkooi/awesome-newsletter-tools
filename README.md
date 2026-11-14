@@ -161,6 +161,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [SendLit](https://github.com/codelitdev/sendlit) - open-source email platform for newsletters, campaigns and sequences via your own SES/SMTP, with a provisioning API and embeddable editor
 - [SendPortal](https://sendportal.io/) - open-source self-hosted email marketing service that integrates with multiple providers
 - [Sendy](https://sendy.co/) - self-hosted email newsletter app that lets you send trackable emails through Amazon SNS
+- [Xem](https://xem.email/) - open-source email marketing platform with recurring newsletters, editable templates, audience lists, and bring-your-own SMTP delivery
 
 #### Transactional (APIs)
 
