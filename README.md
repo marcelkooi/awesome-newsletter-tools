@@ -78,6 +78,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [NewsletterHunt](https://newsletterhunt.com/) - list of newsletters sorted by recently updated
 - [NewsletterStack](https://www.newsletterstack.co) - curated list of newsletter tools and stacks of successful newsletters
 - [Rad Letters](https://www.radletters.com) - discover the best curated newsletters
+- [Stackblade](https://stackblade.app/) - follower counts, leaderboard ranks and recommendation history for Substack writers
 - [Substack Discover](https://substack.com/discover) - list of newsletters using Substack with search functionality
 - [Thanks for Subscribing](https://www.thanksforsubscribing.app/) - curated list of newsletters with topics and search functionality
 
