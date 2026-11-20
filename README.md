@@ -53,6 +53,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [Email Campaign Preflight](https://github.com/Kndll33/email-campaign-preflight-demo) - Offline static HTML campaign QA for links, UTM coverage, image alt text, preheaders, and unsubscribe evidence, with JSON and Markdown reports; not a rendering or deliverability test.
 - [Email Spam Tester](https://email-spam-tester.com/) - Free, no-signup check of SPF, DKIM, DMARC and blocklists, plus the folder the message lands in at Gmail, Outlook, Yahoo and other providers.
 - [Email Subject Line Tester](https://alltoolsverse.com/tools/email-subject-line-tester/) - Browser-based subject line analyzer with length guidance, heuristic spam-trigger checks, and mobile and desktop inbox previews.
+- [FairValid](https://fairvalid.com/) - Email verification for single addresses and CSV lists, with an API and 300 shared free credits each month.
 - [GlockApps](https://glockapps.com/) - tool to diagnose email deliverability problems
 - [GMass](https://www.gmass.co/) - platform used to increase open rates and send bulk emails
 - [Heybounce](https://www.heybounce.io) - Email verification service that checks if an email exists to reduce bounce rates.
