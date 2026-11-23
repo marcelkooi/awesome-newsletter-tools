@@ -170,6 +170,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [Mailgun](https://www.mailgun.com/) - email API service for sending, receiving, and tracking emails
 - [Postmark](https://postmarkapp.com/) - provider for sending application emails
 - [SendGrid](https://sendgrid.com/) - platform for transactional and marketing email
+- [Transmitly](https://transmitly.io) - transactional email API and SMTP relay with inbound inboxes, delivery states, and MCP support
 
 ## Referral Programs
 
