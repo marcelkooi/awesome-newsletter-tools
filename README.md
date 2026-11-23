@@ -88,6 +88,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [MailMop](https://mailmop.com/) - rank Gmail senders by volume and bulk delete or unsubscribe from them
 - [Mailscribe Inbox](https://mailscribe.com/page/inbox) - keep your inbox clean
 - [Mux](https://mux.to/) - receive and organize your newsletters in a special mailbox
+- [RelayMail](https://relaymail.app/?ref=awesome-newsletter-tools) - turn a shared address like support@ into Slack threads, with replies going back out as normal email
 - [Slick Inbox](https://slickinbox.com/) - break free of a cluttered email inbox
 - [Stoop](https://stoopinbox.com/) - quit the news feed, embrace the newsletter
 - [Supscrib](https://supscrib.com/) - the new way of subscribing anonymously to newsletters
